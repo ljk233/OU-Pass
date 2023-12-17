@@ -5,4 +5,4 @@ processed_format = "parquet"
 backend = "pandas"
 
 [path]
-raw_data = "data/raw/ou_pass.csv"
+raw_data = "data/raw/ou_student.csv"
