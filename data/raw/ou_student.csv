@@ -1,0 +1,1797 @@
+mod_result,exam_score,continous_ass_score,region,gender,imd,qual_link,best_prev_mod_score,age
+1,76,77,west midlands,male,middle,maths,89.2,32
+1,68,82,south west,male,least,not,100,36
+1,89,97,west midlands,male,least,maths,96,52
+1,41,79,london,male,most,maths,85,35
+1,48,81,north west,male,least,maths,92,72
+1,68,80,east midlands,male,least,maths,82,41
+1,60,72,east of england,female,least,maths,96.4,48
+1,93,91,west midlands,female,middle,maths,93,31
+1,75,90,west midlands,female,most,maths,98.6,32
+1,28,69,yorkshire,female,least,not,89,59
+1,62,77,north,male,other,not,92,36
+1,89,85,london,male,middle,maths,94,47
+1,73,92,south east,male,least,maths,95,30
+1,82,94,london,female,middle,maths,94.5,40
+1,88,95,south west,female,middle,maths,98,62
+1,87,95,west midlands,female,most,maths,98,31
+1,100,97,south east,male,middle,not,97,31
+1,93,99,wales,female,middle,maths,97,44
+1,94,97,yorkshire,male,most,maths,98,45
+1,89,91,scotland,male,most,maths,92,47
+1,87,90,east of england,female,least,not,96,49
+1,86,89,south,male,least,maths,95,58
+1,40,73,north west,female,most,maths,87,33
+1,29,56,north west,male,middle,maths,88,35
+1,83,98,east of england,male,middle,maths,98,72
+1,94,97,south,male,middle,maths,99,23
+1,41,89,north west,female,middle,not,82.8,24
+1,30,92,south,male,least,maths,95,34
+1,84,94,east of england,male,least,maths,99,46
+1,65,88,london,male,most,maths,88,29
+1,95,95,south,male,least,maths,96.5,70
+1,46,77,south east,male,most,maths,83,45
+1,89,94,west midlands,male,middle,not,97.5,54
+1,49,79,east midlands,male,least,not,94,32
+1,73,80,south,male,least,maths,86,25
+1,52,78,north,male,other,not,92,35
+1,71,93,northern ireland,male,other,maths,98,50
+1,54,57,wales,female,middle,maths,89.5,28
+1,49,86,yorkshire,female,least,not,82,47
+1,81,88,northern ireland,female,other,maths,84,28
+1,67,86,north west,female,least,maths,100,56
+1,49,81,london,male,most,maths,96,65
+1,46,80,north,male,middle,not,86.5,31
+1,55,57,london,female,middle,maths,94,30
+1,71,90,east of england,female,least,maths,95,68
+1,70,88,south east,female,least,maths,94,32
+1,80,97,south east,female,most,maths,92,25
+1,51,88,south,male,least,maths,94.2,25
+1,75,91,south,male,least,maths,96.2,47
+1,41,78,north west,female,most,not,81,32
+1,35,83,south east,male,least,maths,93,35
+1,42,72,london,male,most,maths,93.4,42
+0,9,51,south,male,least,maths,81.3,42
+0,14,54,south east,female,least,maths,87,28
+1,92,96,east of england,male,middle,maths,96,38
+1,36,76,yorkshire,female,least,not,83,28
+1,48,83,london,female,most,maths,88.6,36
+1,65,83,london,male,middle,maths,84,35
+1,94,99,east of england,female,least,maths,99,27
+1,95,97,yorkshire,female,most,maths,96,25
+1,83,96,south,female,least,maths,98,41
+1,98,98,south east,male,least,maths,99,36
+1,56,67,east midlands,female,middle,maths,76.5,23
+1,78,81,south west,female,middle,maths,87,39
+1,60,81,west midlands,female,middle,maths,97.5,23
+1,70,80,london,male,middle,maths,90,47
+1,68,73,london,female,most,maths,85.8,23
+1,84,95,london,female,least,maths,99,22
+1,68,95,south,male,least,maths,94.5,56
+1,73,88,south west,male,most,maths,95,34
+1,52,88,north west,male,least,maths,95,35
+1,53,66,south,male,least,maths,92.5,35
+1,36,81,scotland,female,middle,maths,86,32
+1,67,94,northern ireland,female,least,maths,95,47
+1,75,98,south,male,least,maths,99,46
+1,58,56,west midlands,female,most,not,87.4,26
+1,62,84,south east,male,least,maths,90.8,54
+1,73,79,london,female,most,maths,83,30
+1,31,52,south,male,least,maths,83.4,27
+1,65,82,yorkshire,male,middle,maths,84.5,36
+1,64,81,north,male,other,maths,96,53
+1,90,95,east of england,female,least,maths,97.5,40
+1,99,96,london,male,middle,maths,98,37
+1,52,85,north,male,middle,maths,95,62
+1,56,95,south,female,middle,maths,98.4,39
+1,93,92,wales,male,least,maths,95.4,23
+1,92,95,west midlands,female,least,not,97,46
+1,83,93,yorkshire,male,least,maths,99,62
+1,35,73,wales,female,least,maths,85,37
+1,41,58,northern ireland,male,most,maths,88,45
+1,63,90,london,female,least,maths,93.6,47
+1,75,93,london,female,least,maths,96.2,37
+1,80,94,london,female,middle,maths,98.4,44
+1,68,88,scotland,male,least,maths,90.8,57
+1,84,84,london,male,least,not,89.5,45
+1,88,91,east midlands,female,least,maths,91.5,25
+1,55,86,yorkshire,female,least,maths,93,56
+1,76,89,wales,male,most,maths,91,50
+1,74,91,north west,male,middle,maths,97,31
+1,46,77,south west,male,least,maths,98,37
+1,98,99,london,male,middle,maths,99,49
+1,50,81,east of england,female,middle,maths,88,42
+1,89,90,yorkshire,female,middle,maths,97,25
+1,95,100,west midlands,female,least,maths,99,43
+1,86,97,south east,female,least,maths,96.5,21
+1,88,96,south west,female,most,not,97.8,28
+1,88,95,scotland,male,middle,maths,96,29
+1,80,94,east of england,male,middle,not,96,29
+1,98,91,london,male,middle,maths,93,31
+1,95,96,scotland,male,most,not,95.5,33
+1,92,95,wales,male,middle,not,98,42
+1,56,74,west midlands,male,least,maths,89,27
+1,74,93,east midlands,female,most,not,97.8,30
+1,71,92,east of england,female,other,maths,94,27
+1,41,89,east of england,female,least,not,99,41
+1,77,70,west midlands,female,most,not,80,30
+1,66,91,london,male,least,maths,83.5,31
+1,49,68,northern ireland,male,other,maths,86,40
+1,72,88,north west,male,middle,maths,87,29
+1,82,95,north west,male,middle,maths,98,49
+1,89,92,east of england,male,most,not,95,37
+1,82,89,south east,female,least,maths,98,43
+1,79,95,london,male,most,maths,91,28
+1,95,98,london,male,most,maths,99,34
+1,57,80,north west,male,middle,maths,88.5,25
+1,72,92,east midlands,female,middle,maths,99.5,25
+1,88,89,wales,male,least,maths,97.6,32
+1,65,78,london,male,most,maths,76,26
+1,60,88,north,male,most,not,91,63
+1,100,95,south west,male,least,maths,100,27
+1,68,87,east midlands,female,middle,maths,92,46
+1,78,94,south,female,middle,maths,98,45
+1,33,66,london,female,most,maths,60,39
+1,34,67,north west,male,most,maths,93,26
+1,82,92,north west,male,most,maths,92,32
+1,57,83,south,female,least,maths,94,52
+1,51,78,east of england,female,most,not,90,37
+1,56,86,south west,female,most,maths,98,50
+1,88,91,south west,female,middle,not,89.5,56
+1,66,86,scotland,female,least,maths,95,40
+1,37,70,london,female,most,maths,79,57
+1,100,95,south,male,least,maths,94,25
+1,77,88,south,female,least,maths,93,24
+1,92,98,london,male,least,maths,100,74
+1,48,82,north west,female,least,maths,98,43
+1,45,86,east midlands,male,least,maths,99,36
+1,40,90,south,male,least,maths,89,42
+1,41,78,south,female,least,maths,85,36
+1,81,95,london,female,middle,maths,96,47
+1,98,99,south east,female,least,maths,98,38
+1,35,89,northern ireland,male,middle,maths,88,49
+1,43,86,south east,male,least,maths,99,70
+1,75,82,north,male,other,maths,94,56
+1,63,96,south,female,middle,maths,93,44
+1,48,61,south west,male,least,maths,76,30
+1,92,92,east of england,female,least,maths,96,47
+1,64,84,north west,male,most,maths,96.4,29
+0,16,58,south east,male,middle,maths,81.8,27
+1,94,93,east of england,male,least,not,95,47
+1,53,90,south,male,least,not,88,43
+1,57,80,south,male,least,maths,73,26
+1,89,97,london,male,middle,maths,99,49
+1,68,91,east of england,female,middle,maths,98.2,53
+1,92,92,north west,male,most,maths,94.2,33
+1,84,97,west midlands,male,middle,maths,96,30
+1,71,90,south,female,middle,maths,97,30
+1,80,96,south west,male,least,maths,100,43
+1,61,86,london,male,least,maths,78.2,19
+1,45,84,north,male,other,maths,88,59
+1,46,65,scotland,male,most,maths,91,29
+1,81,95,south west,female,middle,maths,97,46
+1,63,80,east midlands,female,middle,maths,82,29
+0,5,60,south west,male,least,maths,99,32
+1,68,88,west midlands,female,most,maths,79,28
+1,75,86,south,male,least,maths,96.5,32
+1,40,91,north,male,most,maths,98,49
+1,92,93,south,female,middle,maths,96,26
+1,41,55,yorkshire,male,least,not,89.5,27
+1,67,74,scotland,female,middle,maths,94.6,36
+1,44,51,south east,male,least,maths,90,19
+1,60,71,east midlands,female,most,maths,95.6,19
+1,84,94,east midlands,female,most,maths,97.4,22
+1,90,98,east of england,male,middle,not,99,50
+1,40,72,yorkshire,female,least,not,89.5,22
+1,92,96,london,male,middle,not,98,61
+1,81,77,north west,female,most,not,90,26
+1,81,88,northern ireland,male,other,maths,92,49
+1,89,89,london,male,most,maths,93.5,30
+1,80,91,london,male,most,maths,93.5,29
+1,92,87,north,male,other,maths,87,28
+1,36,74,london,female,most,maths,81,27
+1,60,87,northern ireland,male,middle,not,96,41
+1,64,85,yorkshire,female,most,maths,97,28
+1,72,73,south west,female,least,maths,82.4,20
+1,84,93,south,male,most,not,96,39
+1,52,99,south,male,least,maths,95.6,28
+1,93,94,west midlands,male,least,maths,99,56
+1,68,91,east of england,male,least,maths,97,46
+1,53,76,wales,male,least,maths,97.2,26
+1,70,82,west midlands,male,least,maths,89.2,30
+1,48,75,south,female,least,maths,85.6,32
+1,69,92,east midlands,female,least,not,98,42
+1,60,79,south,male,middle,maths,87.4,28
+1,77,91,wales,female,middle,maths,89.5,31
+1,80,94,south,male,least,maths,97.5,21
+1,89,90,scotland,male,middle,not,79,25
+1,72,92,south west,male,other,maths,96.5,32
+1,89,92,south east,male,middle,maths,94,28
+1,88,90,east of england,female,least,maths,93,21
+1,68,94,south,male,least,maths,90.8,31
+1,64,96,northern ireland,male,other,maths,97,48
+1,29,60,north west,male,most,maths,87.6,23
+1,60,89,yorkshire,male,least,maths,95,19
+1,71,90,london,male,least,maths,91,33
+1,60,75,south east,male,most,maths,74.5,27
+1,55,78,scotland,male,middle,maths,84.5,27
+1,74,95,london,male,most,maths,98.4,29
+1,40,77,east of england,male,least,maths,88,20
+1,40,81,west midlands,male,middle,maths,95.6,34
+1,77,93,london,male,middle,maths,96.5,34
+1,98,97,north,male,other,maths,98,39
+1,58,87,scotland,male,middle,maths,94.5,23
+1,61,71,london,female,most,not,72.5,38
+1,53,84,north west,male,middle,maths,81.5,26
+1,71,86,northern ireland,male,middle,maths,93,29
+1,37,64,south west,male,most,maths,89.4,20
+1,59,89,west midlands,male,middle,not,97.2,57
+1,84,85,south,female,least,maths,86.5,24
+1,70,88,south,female,middle,not,92,43
+1,72,86,northern ireland,male,least,maths,87.5,25
+1,41,68,northern ireland,male,middle,maths,71.5,28
+1,87,96,north,male,other,maths,98.5,38
+1,92,95,yorkshire,male,most,maths,94.5,24
+1,96,97,south,male,least,maths,96.5,36
+1,55,88,scotland,male,least,maths,80.5,24
+1,73,92,south west,male,least,not,97,69
+1,53,88,south west,male,least,maths,65,24
+1,42,84,scotland,female,least,not,76.5,39
+1,94,98,south east,male,middle,not,97,61
+1,75,92,wales,male,most,maths,96.6,54
+1,99,98,south west,female,middle,maths,94.5,59
+1,42,78,east of england,female,least,maths,99,63
+1,90,97,east of england,male,least,maths,99,61
+1,96,94,west midlands,female,middle,maths,96,51
+1,41,83,east of england,male,least,maths,93,54
+1,95,99,east midlands,female,least,maths,95,59
+1,76,92,east of england,male,least,not,91.5,64
+1,82,89,scotland,female,middle,maths,97,46
+1,83,87,west midlands,male,least,maths,93,54
+1,68,87,north,male,other,maths,88,48
+1,82,98,south,female,middle,not,99,54
+1,82,96,south east,male,least,maths,97,43
+1,49,59,north,male,other,maths,93,47
+1,76,100,north west,female,middle,maths,98,47
+1,95,98,east midlands,male,middle,maths,98.5,56
+1,98,97,london,male,most,maths,99.5,41
+1,46,95,london,male,middle,maths,73.6,53
+1,70,91,south,female,least,maths,89,43
+1,74,79,london,male,middle,not,77.5,46
+1,89,88,london,male,least,maths,93.5,39
+1,57,89,north west,male,most,maths,97.4,42
+1,81,93,west midlands,female,most,maths,98,39
+1,27,87,east midlands,male,least,maths,100,56
+1,89,94,south,female,least,maths,91,55
+1,99,96,south east,female,least,maths,97,35
+1,48,72,yorkshire,male,middle,not,96,50
+1,99,99,scotland,female,middle,maths,98.5,46
+1,82,92,north west,male,most,maths,96.5,52
+1,49,90,south east,male,least,maths,99,59
+1,77,94,south,female,least,maths,94,62
+1,80,89,south east,male,most,maths,95,40
+1,68,84,london,male,middle,not,90.5,66
+1,57,90,northern ireland,male,middle,maths,93.2,44
+1,94,97,east of england,male,middle,not,94.5,59
+1,48,89,scotland,male,least,not,76.5,48
+1,83,94,east of england,male,middle,maths,100,32
+1,49,87,east of england,male,middle,maths,93.5,52
+1,40,87,east of england,female,most,maths,82,42
+1,86,87,south east,male,most,not,93.5,49
+1,36,74,yorkshire,female,least,maths,95,62
+1,87,90,south west,female,most,not,85.5,34
+1,40,59,london,female,middle,not,75,37
+1,33,77,east of england,female,middle,not,94,52
+1,69,94,west midlands,male,least,not,97,69
+1,90,95,london,male,middle,not,97.5,40
+1,62,83,north,male,other,maths,98,51
+1,82,89,east midlands,female,least,not,96,28
+1,40,75,scotland,male,most,maths,81,34
+1,93,95,london,male,middle,not,96,53
+1,37,69,east midlands,male,middle,not,86.5,31
+1,76,70,north,female,most,maths,97,40
+1,78,91,east of england,male,least,maths,96,55
+1,51,55,east midlands,female,middle,maths,98.2,55
+1,47,56,south west,male,middle,not,68.4,35
+1,44,91,west midlands,male,middle,not,98.8,42
+1,66,91,north,female,other,not,87,42
+1,68,84,east of england,male,least,not,92.6,43
+1,37,81,east of england,male,middle,maths,99,35
+1,53,68,south,male,least,not,98,51
+1,78,87,east of england,female,middle,maths,95,29
+1,35,58,south east,female,least,not,99,71
+1,32,49,north,female,middle,not,97,39
+1,76,92,london,female,most,maths,93,32
+1,30,72,south east,female,least,not,100,57
+1,98,96,west midlands,female,most,maths,96.8,34
+1,79,94,west midlands,male,middle,maths,97.5,62
+1,98,99,wales,male,least,maths,99,45
+1,95,97,east of england,female,least,maths,99,41
+1,89,94,london,female,most,not,98,59
+1,49,79,yorkshire,male,least,maths,95,35
+1,95,98,wales,female,least,maths,99,35
+1,98,91,south west,female,middle,maths,98.5,34
+1,87,84,wales,male,most,maths,93,43
+1,100,100,yorkshire,female,least,maths,99.5,36
+1,98,100,london,female,middle,not,99.5,52
+1,92,93,yorkshire,male,most,maths,98.5,46
+1,88,98,east of england,female,middle,maths,99,46
+1,68,89,south west,male,most,maths,90,41
+1,45,57,south,female,least,not,77,41
+1,95,97,wales,female,middle,maths,96,41
+1,67,87,yorkshire,female,least,maths,83,38
+1,83,95,london,female,most,not,97.5,52
+1,89,95,south,male,middle,maths,97.5,52
+1,98,94,south west,female,middle,maths,98.5,54
+1,90,95,wales,male,most,not,96,51
+1,83,96,west midlands,female,least,maths,97.4,37
+1,99,95,south east,male,most,maths,99,47
+1,63,90,london,female,least,maths,94,55
+1,53,85,south,female,least,maths,90,31
+1,64,87,east of england,male,least,maths,95,54
+1,73,95,yorkshire,female,least,not,97,36
+1,69,94,south west,male,middle,maths,97,55
+1,48,62,south,male,middle,maths,79.5,34
+1,60,77,east of england,male,least,maths,93.5,24
+1,59,90,scotland,male,middle,maths,93.5,45
+1,90,97,east midlands,male,least,maths,98,35
+1,95,98,london,female,most,maths,100,53
+1,45,59,south,female,most,not,85,41
+1,25,77,east of england,male,middle,maths,86.8,39
+1,32,62,east of england,female,middle,maths,90,47
+1,28,70,east midlands,male,middle,maths,83.5,30
+1,80,81,london,male,most,maths,98,54
+1,71,92,south,female,least,maths,93,40
+1,76,75,south,female,least,maths,94,36
+1,71,87,west midlands,male,least,not,85.5,31
+1,82,87,south east,female,least,maths,98,42
+1,65,65,yorkshire,female,least,maths,91,38
+1,48,58,south west,male,middle,maths,89,31
+1,53,61,london,female,most,maths,90,44
+1,71,89,west midlands,male,most,not,96.8,50
+1,76,77,west midlands,male,middle,maths,98,49
+1,42,55,east midlands,female,most,maths,88,28
+1,69,77,north,male,most,not,86,30
+1,52,46,south,male,middle,maths,81.5,35
+1,42,40,north,male,other,maths,94.4,68
+1,84,79,south east,female,least,maths,95.5,40
+1,85,83,south west,male,most,maths,97,42
+1,64,85,north west,female,least,maths,92,39
+1,61,60,north west,male,middle,maths,88,33
+1,86,77,east of england,female,middle,maths,88,23
+1,75,87,east midlands,male,least,maths,96,40
+1,80,89,north west,female,middle,maths,94,50
+1,80,79,south east,male,most,maths,83,45
+1,87,91,scotland,male,middle,maths,92,36
+1,73,88,south,female,least,maths,95,57
+1,82,85,south west,female,least,maths,99.2,44
+1,72,80,south,male,least,maths,86,25
+1,57,63,wales,female,middle,maths,89.5,29
+1,80,76,northern ireland,female,other,maths,84,29
+1,60,75,south west,male,least,not,80,66
+1,76,74,north west,male,middle,maths,96,35
+1,75,67,london,female,middle,maths,94,29
+1,95,88,south,female,least,maths,97,44
+1,68,87,south east,female,most,maths,97.6,37
+1,60,85,south,male,least,maths,94.2,25
+1,82,73,east of england,female,least,maths,89,36
+1,60,71,south,male,least,not,80,54
+1,86,88,london,male,middle,maths,97,47
+1,64,63,london,female,most,maths,95,52
+1,64,84,north west,female,least,maths,84.5,31
+1,71,82,east midlands,male,middle,maths,91,30
+1,80,76,london,female,most,maths,88.6,37
+1,84,93,east of england,female,least,maths,99,27
+1,54,89,east of england,female,least,maths,98,40
+1,63,54,yorkshire,female,most,maths,75.6,25
+1,93,87,wales,female,middle,maths,98,28
+1,72,63,south west,male,least,maths,77,23
+1,86,81,north,female,most,maths,87,22
+1,92,88,south west,male,most,maths,95,30
+1,77,79,south west,female,least,maths,95.5,21
+1,41,44,wales,female,least,maths,91,31
+1,78,82,london,male,middle,maths,96.5,47
+1,72,62,north west,female,other,maths,91,24
+1,45,47,yorkshire,female,most,maths,83.2,34
+1,71,86,south east,male,least,maths,90.8,53
+1,85,75,east of england,female,least,maths,97.5,38
+1,72,78,west midlands,male,middle,maths,99,39
+1,75,75,south,female,middle,maths,90.4,34
+1,46,57,east midlands,male,middle,maths,87,35
+1,65,71,north,male,other,maths,94,35
+1,63,78,east of england,female,least,maths,96,27
+1,72,80,south west,male,least,maths,99,50
+1,73,69,london,female,least,maths,82,27
+1,85,82,north west,male,middle,maths,97,33
+1,76,84,scotland,male,middle,maths,94.5,41
+1,63,65,south east,male,least,maths,90.4,29
+1,64,58,south east,female,least,maths,94.6,60
+1,61,67,east of england,female,middle,maths,88,38
+1,60,59,east midlands,male,middle,maths,78.5,30
+1,83,86,east of england,male,most,maths,98,39
+1,91,94,east of england,male,least,maths,97,31
+1,71,76,west midlands,male,least,maths,89,27
+1,83,89,east midlands,female,most,not,97.8,30
+1,65,63,yorkshire,male,least,maths,95.4,29
+1,73,74,london,male,least,maths,83.5,32
+1,73,68,south west,male,least,not,87,21
+1,80,86,east of england,male,least,maths,99,47
+1,36,71,east midlands,female,least,maths,96.8,25
+1,79,80,south,female,middle,maths,98,47
+1,80,87,north west,female,most,maths,90,21
+1,85,90,north west,male,most,maths,97,33
+1,82,87,east of england,male,most,not,97,38
+1,52,62,north west,male,most,maths,93,26
+1,95,87,scotland,female,least,maths,93.5,32
+1,41,50,london,female,most,maths,58,25
+1,41,69,west midlands,male,most,maths,97.5,35
+1,88,94,west midlands,male,least,maths,99,41
+1,91,90,south,female,least,maths,99.5,42
+1,76,85,northern ireland,male,other,not,95,44
+1,64,72,east of england,female,least,maths,93,38
+1,69,63,london,male,middle,maths,86,49
+1,75,85,south east,male,least,maths,92.5,38
+1,69,74,northern ireland,male,other,maths,97.8,34
+1,71,80,north west,male,most,maths,96.4,33
+1,79,87,east of england,female,middle,not,96.2,44
+1,94,92,west midlands,male,middle,maths,98,28
+1,69,78,south,male,least,not,88,40
+1,85,91,south,male,other,maths,89,21
+1,79,89,north west,male,most,not,87,30
+1,62,65,south,male,least,maths,73,24
+1,53,69,northern ireland,male,other,maths,89,49
+1,58,75,west midlands,male,least,maths,86,32
+1,78,83,south,female,middle,maths,96,27
+1,77,85,south west,male,least,maths,93,44
+1,83,85,london,male,middle,maths,98,27
+1,62,51,south east,male,least,maths,90,19
+1,31,56,scotland,male,middle,maths,79,29
+1,45,60,yorkshire,female,least,not,89.5,21
+1,64,73,london,male,most,maths,89,30
+1,90,83,north west,female,most,not,90,22
+1,92,88,south east,female,middle,maths,99,51
+1,69,63,london,female,most,maths,81,29
+1,79,63,south,female,middle,not,79.5,32
+1,86,83,north,male,other,maths,93.5,31
+1,76,72,london,male,most,maths,80,33
+1,75,81,east of england,female,least,not,90,20
+1,64,78,yorkshire,female,most,maths,96,36
+1,57,83,south,male,least,maths,95.6,27
+1,76,82,east of england,male,least,maths,97,45
+1,80,79,london,female,most,maths,89.5,22
+1,62,59,wales,female,middle,maths,78.5,26
+1,69,83,west midlands,male,least,maths,89.2,29
+1,83,58,northern ireland,male,least,maths,98,26
+1,67,81,scotland,male,least,maths,88,35
+1,70,70,north,male,most,maths,85.5,30
+1,41,50,north,female,other,maths,82.5,30
+1,68,67,yorkshire,male,least,maths,91,38
+1,80,87,south,male,least,maths,97.5,23
+1,68,50,south east,male,least,maths,72.2,27
+1,88,77,london,male,middle,maths,97,27
+1,73,57,north,male,other,not,59.5,36
+1,71,85,south east,male,middle,maths,94,28
+1,77,85,south,male,least,maths,90.8,34
+1,69,82,scotland,female,least,maths,93.5,49
+1,50,83,south east,male,most,maths,74.5,25
+1,76,88,london,male,most,maths,98.4,30
+1,46,46,east of england,male,least,maths,88,22
+1,88,93,london,male,middle,maths,96.5,37
+1,80,71,south east,male,least,maths,88,25
+1,79,79,north,male,other,not,94.5,27
+1,50,73,london,female,most,maths,85.5,34
+1,77,83,yorkshire,male,most,maths,93.5,23
+0,23,43,east of england,female,middle,not,48,30
+1,87,91,scotland,female,least,maths,92,28
+1,58,83,east of england,female,middle,maths,90.5,42
+1,58,64,london,female,middle,maths,78.5,24
+1,71,73,northern ireland,male,middle,maths,71.5,26
+1,75,90,south,male,middle,maths,93.8,31
+1,84,85,south,male,least,maths,96.5,32
+1,90,87,east of england,female,least,maths,84,25
+1,54,71,london,male,middle,not,58,25
+0,9,10,yorkshire,male,least,maths,65.5,24
+1,60,75,london,male,most,maths,90,72
+1,76,95,south east,male,middle,not,97,61
+1,54,76,east midlands,male,most,maths,94,60
+1,80,80,east of england,female,least,maths,99,62
+1,78,87,east of england,male,least,maths,95,67
+1,78,83,south,female,least,not,95,49
+1,73,91,east midlands,female,least,maths,94,56
+1,39,71,north west,male,least,maths,87.6,79
+1,84,87,north,female,most,not,96,49
+1,84,87,north west,male,middle,not,92.5,48
+1,60,72,wales,female,most,maths,79.1,52
+1,72,82,london,male,most,not,96,54
+1,77,79,south,male,most,maths,95,46
+1,55,81,east of england,male,least,maths,91,61
+1,67,89,south,female,most,maths,100,43
+1,73,68,east midlands,male,most,not,90,41
+1,76,79,south east,male,least,not,84,59
+1,79,91,north west,male,most,maths,97.4,41
+1,73,86,scotland,male,most,maths,94,41
+1,43,59,london,male,most,not,73,56
+1,65,64,south west,male,most,maths,97,38
+1,49,90,south,male,middle,maths,91.5,33
+1,61,69,wales,female,most,not,80.5,42
+1,72,68,south east,male,middle,not,84.5,57
+1,71,77,london,female,least,maths,86.5,35
+1,84,64,south,male,least,maths,97.4,32
+1,99,97,scotland,female,least,maths,91,59
+0,28,44,east of england,female,middle,maths,61,50
+1,35,51,london,male,most,maths,66.1,53
+1,79,86,west midlands,female,middle,maths,93.5,44
+1,82,84,northern ireland,male,other,maths,88.5,57
+1,32,65,south west,female,most,not,95,50
+1,93,71,north,male,least,not,82,30
+1,91,88,wales,female,least,maths,98,40
+1,83,96,london,male,middle,not,99,53
+1,52,71,scotland,male,most,maths,81,33
+1,56,66,scotland,male,most,maths,93,32
+1,87,82,london,female,middle,maths,99,43
+1,98,91,south east,female,middle,maths,98.5,37
+1,61,43,east midlands,female,middle,maths,98.2,54
+1,68,81,wales,male,least,maths,99,51
+1,67,74,west midlands,female,middle,not,79,33
+1,63,61,london,male,middle,maths,84.9,49
+1,65,75,east of england,male,least,maths,98,65
+1,94,81,london,female,most,maths,93.5,38
+1,64,54,yorkshire,male,middle,maths,91,50
+1,86,90,yorkshire,male,least,maths,99,58
+1,73,76,south,female,least,not,91,44
+1,72,88,east midlands,female,least,not,100,47
+1,92,76,south west,female,middle,maths,98.5,34
+1,76,74,wales,male,most,maths,93,44
+1,84,94,east of england,female,middle,maths,99,43
+1,63,78,south west,male,most,maths,90,40
+1,80,86,wales,female,middle,maths,96,43
+1,88,86,london,female,most,not,97.5,50
+1,73,48,yorkshire,female,middle,maths,84,27
+1,92,86,south east,female,least,maths,87,37
+1,55,70,south,female,least,maths,90,33
+1,67,69,yorkshire,male,middle,maths,80,47
+0,23,33,london,male,most,maths,91,51
+1,50,63,east of england,male,least,maths,90,54
+1,72,57,east of england,male,least,maths,98,47
+1,87,83,east midlands,female,middle,maths,90,31
+1,77,71,yorkshire,male,middle,maths,92,52
+1,50,65,northern ireland,male,other,maths,89.5,45
+1,80,94,london,male,most,maths,92,43
+1,73,79,east of england,male,least,maths,91,45
+1,54,45,east of england,female,least,maths,90,30
+1,70,79,south east,female,middle,not,91.5,31
+1,55,45,london,male,least,maths,69.2,33
+1,78,92,london,male,most,maths,95,32
+1,68,68,east midlands,male,least,maths,82,45
+1,45,72,east of england,female,middle,not,90,55
+1,75,76,london,male,most,maths,88,48
+1,65,46,london,female,least,maths,78.5,33
+1,70,73,east midlands,male,least,maths,91,37
+1,91,88,east of england,female,middle,not,100,49
+1,85,86,south,male,least,maths,95,60
+1,81,88,london,male,most,maths,94,31
+1,42,49,south,male,least,maths,95,37
+1,81,78,east of england,male,least,maths,98,47
+1,70,74,north west,male,least,maths,93.3,39
+1,65,53,london,male,most,maths,88,29
+1,46,47,south,male,middle,maths,92,43
+1,56,69,east of england,female,least,maths,95,65
+1,60,84,south east,female,least,maths,94,35
+1,31,70,west midlands,male,most,maths,84,47
+1,60,67,north,male,middle,not,99.2,52
+1,75,82,south,female,least,maths,98,39
+1,76,73,south east,male,least,maths,80,32
+1,63,53,east midlands,male,middle,maths,86.6,32
+1,91,84,south west,male,middle,maths,96,39
+1,37,49,south west,male,middle,maths,73,27
+1,65,60,yorkshire,female,most,not,96,39
+1,75,82,south east,female,least,not,96,51
+1,40,67,london,female,least,maths,99,23
+1,76,85,south,male,least,maths,96,44
+1,84,76,north west,male,least,maths,95,34
+1,84,84,east midlands,female,least,not,100,52
+1,60,68,scotland,female,middle,maths,86,30
+1,55,55,london,female,most,maths,83,32
+1,30,54,south,male,least,maths,83.4,25
+1,75,64,north,male,other,maths,96,56
+1,64,71,london,male,most,not,91,45
+1,54,90,scotland,female,least,not,81.5,29
+1,85,87,wales,male,least,maths,95.4,25
+1,72,68,east of england,female,middle,not,91.8,24
+1,59,60,yorkshire,female,most,maths,93,29
+1,88,91,scotland,male,least,maths,90.8,59
+1,67,72,london,female,most,maths,95.2,47
+1,87,88,london,male,middle,not,99,51
+1,71,78,east of england,female,middle,not,98.2,43
+1,80,76,south west,male,most,maths,88.8,30
+1,66,77,east midlands,male,middle,maths,89,43
+1,72,74,north west,male,least,maths,89,52
+1,98,88,west midlands,female,least,not,99,47
+1,77,90,scotland,male,middle,maths,96,29
+1,38,77,west midlands,female,least,maths,91,25
+1,67,71,london,female,middle,maths,87.4,27
+1,65,67,south,male,middle,not,83.5,41
+1,81,65,south east,male,middle,maths,71,31
+1,66,85,east of england,female,least,not,99,42
+1,97,89,east of england,male,middle,maths,94.5,29
+1,80,80,north west,male,middle,maths,88.5,24
+1,72,75,east of england,male,most,maths,65,22
+1,88,78,london,female,least,maths,91.5,24
+1,71,72,london,male,most,maths,76,25
+1,91,83,south west,male,least,maths,100,29
+1,57,78,north,female,other,maths,98,31
+1,76,89,scotland,female,least,maths,88.4,33
+1,65,68,london,female,most,maths,92,41
+1,47,52,yorkshire,female,least,maths,89.2,26
+1,53,43,london,female,most,maths,86,32
+1,66,57,london,female,most,maths,79,54
+1,34,64,north west,female,most,maths,82.8,23
+1,68,76,northern ireland,male,other,maths,86.5,31
+1,79,41,east midlands,male,least,maths,99,37
+1,82,93,south,male,middle,maths,100,37
+0,18,47,south,female,middle,maths,85,34
+1,86,78,north,male,least,not,99.8,64
+1,89,82,east of england,female,least,maths,96,44
+1,65,82,west midlands,male,most,maths,96,32
+1,50,55,yorkshire,male,most,maths,85.5,49
+1,68,86,east midlands,female,least,maths,94,30
+1,83,82,london,male,middle,maths,99,50
+1,74,95,london,male,most,maths,94.8,53
+1,70,76,london,male,least,maths,93.2,37
+1,56,63,north west,male,most,maths,83,36
+1,70,55,yorkshire,male,most,maths,75.5,32
+1,75,69,north,male,other,maths,95,45
+1,61,69,london,female,least,maths,95,39
+1,59,81,london,male,most,maths,70.5,50
+1,77,71,london,male,most,maths,93.5,31
+1,82,78,east of england,male,least,maths,94,33
+1,76,71,north west,female,least,maths,85.5,24
+1,53,68,west midlands,male,most,maths,93.5,34
+1,93,91,northern ireland,female,least,maths,99,48
+1,43,55,wales,male,most,maths,83.2,22
+1,72,54,south,male,middle,maths,87.4,30
+1,64,62,east of england,male,middle,maths,89.6,31
+1,91,77,london,female,most,maths,93,22
+1,70,79,south east,female,least,maths,95.4,30
+1,84,88,wales,female,middle,maths,89.5,36
+1,65,71,east of england,male,least,maths,92,27
+1,94,89,london,female,most,maths,95,35
+1,90,92,south east,female,most,maths,99.5,33
+1,62,58,west midlands,male,least,maths,89.3,35
+1,97,89,east midlands,female,middle,maths,98,23
+1,90,89,north west,female,most,not,96,27
+1,54,67,north west,male,middle,maths,85.2,32
+1,73,75,east of england,male,least,maths,87.5,72
+1,35,67,yorkshire,male,most,maths,84,41
+1,91,80,north,male,other,maths,98,37
+1,38,55,scotland,male,most,maths,88,25
+1,53,65,scotland,male,middle,maths,94.5,25
+1,40,40,east of england,female,middle,not,48,30
+1,42,73,north west,male,middle,maths,81.5,24
+1,46,63,south east,male,middle,maths,81.4,21
+1,36,63,wales,male,most,maths,92.4,43
+1,49,55,east of england,male,middle,maths,91.3,43
+1,59,55,london,male,most,not,92,36
+0,39,35,north,male,other,maths,75,27
+1,80,77,south,female,middle,maths,96.5,32
+1,84,75,east of england,male,least,maths,83.1,23
+1,82,81,scotland,male,most,maths,96.5,30
+1,82,88,scotland,male,least,maths,100,31
+1,75,69,scotland,male,least,maths,83,24
+1,59,80,east midlands,male,most,maths,91.5,40
+1,79,73,london,male,most,maths,93,29
+1,94,96,scotland,male,most,maths,100,30
+1,79,75,east midlands,female,middle,maths,97.6,39
+1,94,89,london,male,other,maths,99.5,34
+1,23,61,north,female,other,maths,88.5,29
+1,58,69,south west,female,middle,maths,87.5,22
+1,84,70,east of england,male,least,maths,77,25
+1,82,83,south west,female,middle,not,95.5,26
+1,72,63,london,male,most,maths,85.5,23
+1,51,70,scotland,female,least,maths,75.5,34
+1,90,81,wales,male,least,maths,99,28
+1,57,59,wales,male,least,maths,50.5,28
+1,92,80,wales,female,least,not,95,40
+1,91,95,scotland,male,middle,maths,99.5,34
+1,66,74,east midlands,female,most,maths,90.6,21
+1,51,78,london,male,other,not,70,43
+1,60,81,northern ireland,male,least,maths,91,32
+0,49,26,wales,male,middle,maths,74.5,20
+0,17,55,east of england,male,least,maths,81,26
+1,37,49,south east,male,least,not,51,21
+1,88,77,scotland,male,least,not,88,33
+1,24,82,south,male,least,not,83,78
+1,86,87,east of england,male,least,maths,98,49
+1,26,80,south west,male,least,maths,96,47
+1,84,84,south,male,middle,maths,95.5,47
+1,92,93,south,female,middle,not,99,57
+1,74,78,south east,male,least,maths,83,45
+1,71,85,east midlands,male,least,not,98.2,53
+0,16,31,london,male,least,not,81,82
+1,62,77,east midlands,male,middle,maths,98.5,57
+1,49,68,london,female,middle,not,90,46
+1,68,85,south,female,least,maths,89,46
+1,87,78,west midlands,female,most,maths,98,39
+1,58,55,east of england,female,middle,not,96.4,46
+1,70,82,london,male,middle,maths,97,52
+1,46,78,south west,female,most,maths,96,35
+1,58,73,scotland,male,middle,maths,89,57
+1,83,77,north west,male,middle,not,82,59
+0,40,35,london,male,middle,maths,94,60
+1,41,52,east midlands,male,least,maths,90,41
+1,56,72,north,male,other,maths,98,50
+1,75,80,scotland,female,middle,maths,83,42
+1,41,60,south west,male,least,not,84,57
+1,59,63,east of england,male,middle,maths,76,40
+1,94,84,south west,male,most,maths,96.5,38
+1,84,85,east of england,male,least,maths,88,37
+1,73,85,london,female,most,maths,93,34
+1,70,75,scotland,male,middle,maths,90,41
+1,74,69,west midlands,female,least,maths,90,36
+1,71,85,south,male,least,not,79,40
+1,34,46,south,female,least,not,77,39
+1,81,87,west midlands,female,least,maths,97.4,39
+1,72,88,scotland,male,most,maths,87.5,35
+1,77,75,london,female,least,maths,94,30
+1,62,71,east of england,male,least,maths,95,53
+1,30,52,wales,female,most,maths,91,32
+1,58,70,west midlands,male,middle,maths,79.8,31
+1,83,85,east of england,female,middle,maths,95,32
+1,63,80,south,male,middle,maths,79.5,39
+1,73,78,east midlands,male,least,maths,98,35
+1,66,56,scotland,female,middle,not,67,47
+1,82,76,west midlands,female,least,maths,95.5,48
+1,96,92,east midlands,female,other,maths,98,43
+1,74,92,west midlands,male,least,not,99,30
+1,83,74,south west,male,most,maths,94,31
+1,85,88,north,male,least,not,97,44
+1,79,80,london,male,least,maths,92,37
+1,93,96,london,male,least,maths,99,61
+1,64,67,scotland,male,least,maths,95,37
+1,77,68,south west,female,other,maths,90,30
+1,62,89,north west,female,middle,not,82.8,27
+1,53,73,west midlands,male,most,not,84,48
+1,64,69,scotland,female,middle,not,96,47
+1,60,82,london,male,least,not,97,70
+1,74,87,south west,female,least,not,88,38
+1,75,76,east midlands,male,middle,not,95.4,46
+1,86,96,northern ireland,male,least,not,98,37
+1,82,80,south east,male,middle,maths,86,37
+1,63,72,london,male,middle,not,82.5,48
+1,80,71,london,female,most,maths,92.4,27
+1,39,63,north,female,other,maths,88.5,33
+1,39,45,london,female,most,maths,60,42
+1,70,78,east of england,female,other,not,90,35
+1,49,70,wales,female,middle,maths,88,35
+1,75,77,yorkshire,male,most,maths,98,46
+1,54,77,south east,female,least,not,97,34
+1,74,77,east of england,male,least,not,92,39
+1,56,60,yorkshire,male,middle,not,82.4,45
+1,74,98,northern ireland,female,other,maths,87.5,34
+1,69,86,north west,male,least,not,100,34
+1,80,81,south east,female,most,maths,93.2,27
+1,61,56,north,female,other,maths,86,31
+1,82,79,east of england,female,least,maths,98,25
+1,63,92,north west,male,most,not,97,69
+1,78,89,south east,male,middle,maths,98,38
+1,82,91,east midlands,female,least,not,94.5,44
+1,61,55,scotland,male,least,maths,92.2,40
+1,69,74,north,female,other,maths,78,31
+1,90,88,scotland,male,most,maths,100,44
+1,86,84,london,male,most,maths,100,25
+1,72,87,north,male,other,maths,95.5,38
+1,73,95,north,male,other,maths,95.5,55
+1,71,88,northern ireland,male,other,maths,95,34
+1,68,66,east midlands,male,least,not,88.4,39
+1,63,69,scotland,male,middle,maths,92,31
+1,81,93,east of england,male,middle,maths,99,30
+1,73,77,east midlands,male,least,maths,89,62
+1,54,77,scotland,male,middle,maths,93,41
+1,86,83,scotland,male,least,maths,92,38
+1,70,63,yorkshire,female,least,maths,82.5,35
+1,33,51,north,male,other,maths,77.5,41
+1,50,67,west midlands,female,most,not,51,27
+1,76,76,north,female,least,maths,85,38
+1,73,83,scotland,male,middle,maths,90,29
+1,75,86,east of england,female,least,maths,93.6,25
+1,42,78,south west,female,middle,maths,96.2,30
+1,85,81,west midlands,male,least,maths,95,31
+1,87,94,east midlands,male,other,maths,97,57
+1,75,65,north,male,other,maths,81,43
+1,76,86,east midlands,female,most,maths,96.8,33
+1,51,66,scotland,male,middle,maths,95.6,73
+1,84,74,north,male,most,maths,97,26
+1,60,81,scotland,male,most,maths,88,27
+1,57,72,east midlands,male,middle,maths,91,22
+1,82,90,north west,male,least,maths,95,41
+1,83,84,south west,male,other,maths,96,45
+1,43,37,west midlands,male,other,not,93.8,20
+1,65,80,south west,male,least,maths,90.8,39
+1,59,43,north,male,other,maths,76,25
+1,73,79,south west,male,most,maths,92.5,43
+1,88,93,south,female,other,maths,99,25
+1,85,93,london,male,middle,maths,98.5,36
+1,81,91,south,female,least,maths,98,34
+1,64,65,london,male,other,maths,84,26
+1,91,94,scotland,male,least,maths,99,41
+1,84,89,wales,female,least,maths,89.2,29
+1,73,85,west midlands,male,middle,maths,91.8,32
+1,59,69,north,male,other,not,82.5,40
+1,73,82,scotland,male,most,maths,91,46
+1,88,92,london,male,middle,maths,100,40
+1,85,91,east of england,female,least,maths,98,49
+1,76,89,wales,female,least,maths,98.5,36
+1,82,78,north west,female,most,maths,86.5,23
+1,63,80,scotland,male,middle,maths,90,26
+1,78,78,east of england,female,least,maths,87.5,42
+1,58,69,north,male,least,maths,89,68
+1,73,92,northern ireland,male,least,maths,98.5,39
+1,67,86,wales,male,most,maths,80.5,31
+1,67,85,north,male,other,maths,84.5,21
+1,57,73,north,female,other,maths,98,29
+1,66,55,south east,female,middle,maths,63.5,22
+1,78,85,north west,male,middle,maths,92,25
+1,86,84,north,female,other,maths,94,41
+1,52,65,london,female,most,maths,71,46
+1,81,89,london,male,middle,maths,93.5,41
+1,81,93,northern ireland,female,least,maths,85,20
+1,83,90,scotland,male,least,maths,92.5,31
+1,77,84,scotland,male,middle,not,98,40
+1,78,82,scotland,male,middle,maths,95.5,26
+1,70,87,london,female,most,maths,73,25
+1,71,80,east midlands,male,least,maths,95.6,26
+1,71,45,east of england,male,middle,maths,85,24
+1,66,78,west midlands,female,other,maths,90.5,32
+1,68,72,east of england,female,least,maths,95.5,22
+1,48,55,south east,male,middle,maths,53.5,35
+1,71,75,west midlands,female,other,maths,98,20
+1,85,92,scotland,male,middle,maths,89,25
+1,83,88,north west,female,other,maths,90.5,23
+1,61,73,east of england,female,least,maths,93,47
+1,56,73,wales,male,most,maths,74.5,25
+1,62,70,east of england,female,middle,maths,74,24
+1,78,79,west midlands,male,most,maths,87.5,23
+1,52,40,east of england,male,most,not,48,26
+1,65,86,north,male,other,maths,77.5,27
+0,28,45,south east,male,least,not,57,23
+1,42,63,south,male,least,not,83,80
+1,46,59,east of england,male,middle,not,74,63
+1,56,69,south west,female,most,not,83,66
+1,74,94,south,female,middle,not,92,55
+1,83,72,east midlands,male,least,not,91.4,47
+1,67,79,london,male,most,not,91,44
+1,78,80,south west,male,most,not,93,62
+1,86,93,london,male,most,not,97,57
+1,30,62,london,male,most,not,87.5,50
+1,70,63,north,female,other,maths,85,41
+1,82,87,wales,male,least,maths,95.5,48
+1,69,90,south east,female,middle,maths,96.8,36
+1,79,84,west midlands,female,least,not,100,55
+1,90,78,scotland,female,middle,maths,97,41
+1,56,77,south west,female,other,maths,85.5,55
+1,71,63,east of england,male,middle,maths,86,37
+1,63,45,east of england,female,middle,not,61,48
+1,94,90,west midlands,female,least,not,99,54
+1,77,79,south west,female,most,maths,92,31
+1,69,64,east of england,female,most,not,85,37
+1,94,88,east of england,male,middle,maths,97,37
+1,71,81,south,female,middle,not,85,37
+1,77,77,scotland,female,most,maths,93.5,42
+1,74,86,east of england,female,middle,not,99.2,37
+1,52,78,london,female,middle,not,79,41
+1,57,62,north,male,other,not,92,35
+1,45,62,scotland,male,middle,not,100,46
+1,77,89,scotland,male,least,not,99,74
+1,58,70,scotland,male,middle,maths,94,28
+1,78,73,south west,male,least,maths,93,29
+1,62,56,wales,male,least,maths,93,26
+1,52,57,east midlands,female,least,not,63,25
+1,54,74,scotland,male,middle,maths,92.5,31
+0,30,44,north,female,other,not,99,41
+1,74,86,east midlands,male,other,not,94,59
+1,64,89,south east,male,least,maths,94.2,24
+1,26,66,yorkshire,male,most,maths,72.5,39
+1,39,66,east midlands,female,middle,maths,71,24
+1,62,56,south west,male,least,not,76,32
+1,73,73,east of england,male,most,not,92,65
+1,43,58,south east,male,middle,maths,84.5,32
+1,83,51,north west,male,most,maths,83,23
+1,91,91,scotland,male,least,maths,98,28
+1,68,74,yorkshire,male,middle,maths,88.5,30
+1,85,78,east of england,female,least,maths,96.5,30
+1,59,40,south,female,middle,maths,86,24
+1,70,49,east of england,male,least,maths,91,34
+1,88,83,north,male,other,maths,99,42
+1,82,83,wales,female,middle,maths,98,35
+1,55,74,wales,male,least,not,91,44
+1,83,95,wales,female,least,not,95.5,48
+1,58,80,south east,female,least,not,93.2,48
+1,77,70,yorkshire,male,most,maths,78.5,32
+1,46,68,north,male,other,maths,98.5,46
+1,44,79,london,female,most,not,92.4,37
+1,83,83,west midlands,female,least,maths,96,27
+1,40,48,east of england,male,middle,maths,76.8,40
+1,80,80,london,male,middle,maths,96,41
+1,88,88,south west,female,most,maths,98.5,32
+1,54,44,london,male,most,maths,82.2,32
+1,86,86,north west,male,middle,maths,93.5,60
+1,77,62,east of england,male,least,maths,85.8,29
+1,86,93,south,male,least,maths,100,30
+1,74,58,scotland,male,middle,maths,97.5,52
+1,68,92,south east,male,middle,maths,91,24
+1,66,82,london,female,most,maths,89.5,39
+1,63,76,south west,female,other,maths,89.5,64
+1,84,91,scotland,male,most,maths,98,41
+1,82,89,north,male,other,maths,99.5,46
+1,89,76,yorkshire,male,most,maths,98.5,45
+1,85,87,east of england,male,middle,maths,92.5,37
+1,79,85,south,female,middle,maths,91.8,30
+1,76,88,south east,female,least,not,96,28
+1,60,78,east of england,male,middle,maths,93.5,54
+1,79,90,east midlands,male,least,maths,94.5,28
+1,89,89,west midlands,female,middle,maths,95.5,23
+1,92,85,east midlands,male,least,maths,93.5,27
+1,63,44,london,male,most,maths,93.5,29
+1,54,71,east midlands,female,least,maths,96,45
+1,58,70,south,female,least,maths,93,24
+1,78,83,north west,male,least,not,95,38
+1,58,67,north,female,least,maths,87.4,23
+1,91,85,north,female,other,maths,97.5,36
+1,86,85,north west,male,other,maths,93.5,20
+0,21,45,london,male,most,maths,74,22
+1,72,86,west midlands,male,most,maths,94,37
+1,61,73,south,male,least,not,84,45
+1,70,83,north,male,other,maths,94.5,23
+1,51,63,south east,male,middle,maths,81,48
+1,59,73,scotland,male,least,maths,96.6,28
+1,76,74,west midlands,female,most,maths,87.5,25
+1,81,82,north,female,most,maths,92.5,52
+1,32,49,north west,male,least,maths,76,25
+0,35,44,scotland,male,least,maths,79,26
+1,88,82,east midlands,male,least,maths,95.8,33
+0,53,0,london,male,middle,maths,86.6,23
+1,68,81,west midlands,male,least,maths,84.5,32
+1,76,65,london,male,most,maths,98,34
+1,89,78,north,male,other,maths,91.5,38
+1,74,71,south west,male,middle,not,92,29
+1,60,55,scotland,female,least,not,74,25
+1,70,60,london,male,least,maths,68,30
+1,76,88,north,male,other,maths,90,22
+1,73,67,south,female,least,maths,84.5,21
+1,85,86,scotland,female,middle,maths,94,38
+1,46,93,north west,male,most,maths,97.5,37
+1,86,86,scotland,female,middle,maths,90,35
+1,82,70,east midlands,male,least,maths,87,25
+1,88,76,north west,male,most,maths,79,25
+1,63,78,south,female,least,maths,85.5,20
+1,66,65,east midlands,male,least,maths,87.5,26
+1,69,84,south,male,other,not,81.5,23
+1,44,45,london,female,other,maths,73,21
+1,86,71,south west,female,least,not,87,25
+1,69,47,london,male,middle,maths,91,23
+1,85,61,scotland,male,least,maths,89,30
+1,67,79,south east,male,middle,maths,96.5,44
+1,48,82,scotland,female,middle,maths,76,20
+1,78,89,london,male,middle,maths,93,24
+1,78,91,london,male,most,maths,92,31
+1,67,79,scotland,male,least,maths,86,24
+1,58,80,south east,male,least,maths,85.5,29
+1,62,59,northern ireland,male,other,not,83,23
+1,65,61,scotland,male,least,maths,70,26
+1,79,83,south east,male,least,maths,93,24
+1,77,74,london,male,most,maths,91.5,29
+1,80,84,north,male,least,maths,92,22
+1,54,63,west midlands,female,most,maths,95,22
+1,85,68,north west,male,middle,maths,91,24
+1,67,69,london,male,most,maths,87,29
+1,90,94,scotland,male,least,not,98,49
+1,84,83,south east,male,middle,not,86.5,20
+1,57,80,london,female,middle,not,92.2,54
+1,49,55,wales,male,least,not,100,52
+1,78,85,south west,male,least,maths,98,51
+1,83,80,wales,male,least,not,98,54
+1,44,50,northern ireland,male,other,maths,88,53
+1,73,72,wales,female,middle,maths,92.8,49
+1,66,93,london,male,middle,maths,95.5,38
+1,63,72,south,male,most,maths,91,45
+1,98,90,south west,female,middle,maths,100,21
+1,94,87,east of england,male,least,not,100,50
+1,78,58,london,male,least,maths,93,42
+1,83,83,scotland,female,least,maths,98,57
+1,89,90,northern ireland,male,other,maths,97,39
+1,88,80,london,male,middle,not,99,42
+1,65,91,south,female,least,not,96.6,42
+1,84,89,south,female,least,not,98,41
+1,81,90,scotland,male,middle,not,96.5,30
+1,93,95,south,male,least,not,99.5,71
+1,80,52,east of england,female,most,maths,92,29
+1,90,85,wales,male,middle,maths,97.5,35
+1,85,83,south east,female,middle,maths,97,52
+1,44,37,south east,female,most,maths,95.4,33
+1,62,65,south west,male,least,maths,94.5,29
+1,72,81,east of england,female,most,maths,93.2,29
+1,91,99,scotland,female,most,not,93,37
+1,85,96,scotland,male,least,maths,96.5,38
+1,67,80,east of england,male,least,maths,98.5,48
+1,75,72,south,female,least,maths,96.8,45
+1,66,64,east midlands,male,most,maths,83,28
+1,70,67,scotland,male,least,maths,85.5,38
+1,85,93,northern ireland,male,middle,not,97,44
+1,91,89,east midlands,male,least,maths,98,34
+1,62,74,south,female,least,maths,93.5,26
+1,88,87,south,male,middle,maths,98,50
+1,93,88,north,male,other,maths,99,43
+1,87,90,east of england,female,least,maths,96,43
+1,71,83,south,male,least,maths,90,44
+1,79,86,north,male,least,maths,90,46
+1,45,57,london,male,least,not,63,42
+1,85,82,south,female,middle,maths,83,35
+1,57,71,london,male,middle,not,90.5,27
+1,93,86,south,male,least,maths,99.2,67
+1,76,70,north west,male,least,maths,84,27
+1,77,66,northern ireland,male,other,not,78.5,53
+1,58,55,yorkshire,male,most,maths,92,45
+1,82,75,east of england,female,least,not,95.5,41
+1,88,75,west midlands,male,middle,maths,96.8,38
+1,60,70,london,male,other,not,84,37
+1,37,71,scotland,male,most,maths,89.6,49
+1,54,70,south west,male,middle,not,80.2,52
+1,50,49,south east,female,least,maths,85,34
+1,58,75,south,male,least,maths,90.6,53
+1,81,77,east of england,male,middle,maths,88.8,35
+0,2,34,west midlands,female,most,maths,57.5,61
+1,88,80,north,male,middle,maths,91,52
+1,44,78,yorkshire,male,least,not,83,47
+1,88,79,east of england,female,least,maths,89.2,41
+1,69,66,south west,male,least,maths,87,30
+1,46,54,northern ireland,male,other,maths,91,26
+1,75,72,scotland,male,least,maths,86,38
+1,75,75,north,male,other,maths,97.2,50
+1,65,69,wales,male,most,not,77.5,33
+1,87,95,scotland,female,least,maths,93.5,54
+1,83,79,west midlands,male,most,maths,92.8,63
+1,92,90,south east,male,least,maths,98.5,37
+1,91,99,south,female,least,maths,98,45
+0,28,45,north west,female,middle,not,65,36
+1,73,75,south,male,least,maths,90,27
+1,92,90,london,female,most,maths,98,28
+1,80,82,east of england,female,least,maths,97,23
+1,59,74,east of england,female,least,maths,72,35
+0,33,46,south west,female,most,maths,74.8,22
+1,61,43,north,female,other,maths,80.8,37
+1,45,40,yorkshire,male,most,maths,78.5,59
+1,86,90,south east,male,most,maths,95.5,40
+1,88,82,london,male,least,not,97,35
+1,85,89,west midlands,male,middle,maths,95.6,41
+1,74,72,scotland,female,least,maths,83.5,40
+1,85,81,london,female,least,maths,97.5,47
+1,88,90,northern ireland,male,least,maths,91.5,38
+1,83,64,north,male,other,maths,90,50
+1,90,98,scotland,male,least,maths,97.5,37
+1,58,68,east midlands,male,middle,maths,95.6,29
+1,76,72,south west,female,least,maths,90,30
+1,73,73,north west,male,least,maths,94,58
+1,91,83,south west,female,middle,maths,98.5,42
+1,69,74,scotland,female,least,maths,95.8,24
+1,69,78,scotland,male,middle,maths,90.5,34
+1,76,78,south east,male,least,maths,93,59
+1,64,90,north,male,middle,maths,93,29
+1,72,53,north,male,other,maths,91,25
+1,89,86,south,male,least,maths,97,57
+1,93,94,north,male,least,maths,96,31
+1,89,90,scotland,male,most,maths,92,60
+1,69,63,yorkshire,female,most,maths,90.2,26
+1,61,40,northern ireland,male,other,maths,90.8,28
+1,84,93,london,male,most,maths,98.2,40
+1,64,80,scotland,female,most,not,86,29
+1,65,63,wales,female,most,maths,94.8,36
+1,87,89,london,female,middle,maths,99,38
+1,79,85,west midlands,male,least,not,79.5,45
+1,55,63,scotland,male,least,maths,85.6,35
+1,33,50,north,male,other,maths,62,56
+1,78,82,south,male,least,maths,93,45
+1,93,90,south,male,least,maths,94,33
+1,82,71,north,male,other,maths,94,27
+1,63,59,scotland,male,least,maths,78,24
+1,55,59,yorkshire,female,most,maths,79,23
+1,93,95,south,male,least,maths,99,36
+1,55,78,south west,female,middle,maths,90.8,34
+1,58,49,london,female,middle,maths,76.3,27
+1,70,51,north,male,other,maths,79.5,23
+1,87,68,north,male,other,maths,92,36
+1,49,70,london,male,middle,maths,86.6,36
+1,82,74,north,male,other,maths,93,47
+1,81,69,london,male,middle,maths,77,38
+1,82,86,east midlands,female,least,not,93,22
+1,44,62,scotland,male,least,not,86,30
+1,90,87,south east,male,least,maths,99,21
+1,89,57,northern ireland,male,other,maths,81.2,40
+1,60,75,london,male,middle,maths,97.5,22
+1,67,59,north,male,other,maths,88.5,45
+1,75,62,south west,female,middle,maths,85.5,23
+1,42,54,northern ireland,male,other,maths,60,31
+1,39,53,east midlands,female,most,maths,80,23
+1,91,83,south west,female,most,maths,100,30
+1,83,86,east midlands,female,middle,maths,98,35
+1,47,54,wales,female,middle,maths,75,27
+1,95,89,north west,male,middle,not,99,43
+1,75,81,north,male,middle,maths,97.8,31
+1,78,88,south east,male,middle,maths,95,29
+1,93,85,east midlands,female,least,maths,100,21
+1,77,70,south,female,middle,maths,97,26
+1,85,64,scotland,male,least,maths,92,25
+1,55,40,scotland,male,least,maths,78.5,30
+0,34,44,london,female,most,not,65.5,33
+1,73,76,london,male,middle,maths,95,60
+1,72,73,north,male,other,not,86,47
+1,91,91,south east,male,least,maths,99,22
+1,49,55,north,female,other,maths,87.5,21
+1,81,76,east of england,male,least,not,95,57
+1,83,69,north west,male,middle,maths,98,22
+1,75,55,north,male,other,maths,51,25
+1,88,81,west midlands,male,most,not,94,34
+1,46,47,yorkshire,male,least,not,69,21
+1,96,84,northern ireland,male,least,not,95.5,30
+1,64,62,northern ireland,female,most,maths,89,50
+1,89,80,north west,female,most,not,100,57
+1,92,88,scotland,male,least,not,95,51
+1,85,59,scotland,male,least,not,90,50
+1,93,81,west midlands,male,least,not,95,43
+1,90,95,scotland,male,least,not,96,57
+1,73,83,east of england,male,least,maths,96,52
+1,83,96,scotland,female,middle,maths,97.5,48
+1,79,88,south,female,least,not,88.3,63
+1,80,80,south east,male,least,maths,89,47
+1,81,78,east midlands,male,most,maths,83.6,46
+1,68,75,east of england,male,least,maths,95.8,40
+1,54,61,wales,female,least,not,84.2,57
+1,90,88,south east,female,most,not,61.3,44
+1,58,58,london,male,middle,maths,69.5,34
+1,79,80,north,male,other,maths,95.5,42
+1,98,82,west midlands,male,middle,not,99,51
+1,94,95,south,female,middle,not,96.5,35
+1,58,63,north,female,middle,maths,92,37
+1,80,68,london,male,most,maths,95,35
+1,99,90,london,female,least,maths,100,48
+0,32,36,east of england,male,least,not,80,32
+1,57,63,scotland,female,least,maths,84,23
+1,85,85,east midlands,female,middle,maths,99,43
+1,83,78,east of england,male,middle,maths,98,46
+1,70,52,east midlands,male,least,maths,97,47
+1,51,63,east of england,male,middle,maths,98,54
+1,41,59,wales,male,middle,maths,86,27
+1,94,86,south east,female,middle,maths,95,22
+1,95,93,north,male,other,maths,97,49
+1,94,81,scotland,male,least,not,97,35
+1,87,80,north,male,least,maths,100,33
+1,89,78,south,male,least,maths,95,56
+1,89,88,south,male,least,maths,96,52
+1,62,80,north west,female,least,maths,92,40
+1,96,95,south east,male,middle,maths,100,39
+0,36,46,east of england,male,least,maths,93,56
+1,65,68,north west,female,middle,maths,95,50
+1,95,95,east of england,female,least,maths,100,52
+1,79,86,east of england,male,least,maths,99,47
+1,96,55,east of england,male,least,maths,98,47
+1,88,84,london,male,least,maths,96.5,47
+1,64,53,south west,female,least,maths,99.2,42
+1,72,46,south,male,least,maths,86,24
+1,59,55,north,male,other,not,71.5,35
+1,46,49,south,female,least,maths,96,36
+1,89,75,east of england,male,most,maths,99,37
+1,40,59,south,male,least,maths,95,59
+1,49,40,london,female,middle,maths,94,29
+1,82,53,london,male,most,maths,94,27
+1,66,86,west midlands,male,middle,maths,97,48
+1,61,79,south,male,least,maths,94.2,27
+1,65,67,east midlands,female,least,maths,91,51
+1,48,55,east midlands,male,middle,maths,94,31
+1,77,77,east of england,male,least,maths,98,36
+0,36,40,south east,male,most,maths,98.4,36
+1,56,83,east of england,female,least,maths,98,42
+1,81,76,south west,female,middle,maths,87,40
+1,72,55,west midlands,female,middle,maths,97.5,21
+1,90,91,south west,male,middle,maths,98,36
+1,89,86,wales,female,middle,maths,98,28
+1,62,43,london,female,middle,maths,98.6,23
+1,53,53,south,male,least,maths,96,44
+1,53,63,yorkshire,female,middle,maths,97.4,37
+1,94,69,north,male,other,maths,97.5,24
+1,40,42,north west,female,other,maths,91,25
+1,45,63,scotland,female,middle,maths,86,31
+1,91,83,west midlands,female,least,maths,99.2,42
+1,93,69,east of england,female,least,maths,93,34
+1,72,62,south west,male,least,maths,97,61
+1,40,69,london,female,least,maths,96,49
+1,42,38,london,female,middle,maths,91.8,26
+1,55,74,south,female,middle,maths,98.4,42
+0,25,38,south,male,middle,maths,92.8,60
+1,53,48,yorkshire,male,least,maths,89,56
+1,65,37,northern ireland,female,other,maths,70,32
+1,86,69,north,male,middle,maths,98,25
+1,73,55,east of england,female,least,maths,96,28
+1,69,61,south west,male,middle,maths,98,64
+1,63,75,east midlands,female,least,maths,91.5,23
+1,81,52,london,female,most,maths,95.2,47
+1,82,71,london,male,least,maths,82.5,25
+1,63,50,scotland,male,middle,maths,94.5,39
+1,43,54,south east,male,least,maths,90.4,27
+1,81,73,south east,male,most,maths,89.5,27
+1,94,95,east midlands,female,least,maths,98.5,42
+0,32,42,east of england,female,middle,maths,88,39
+0,29,40,west midlands,male,least,maths,91,22
+1,48,37,scotland,male,most,not,93.5,34
+1,75,61,west midlands,female,least,maths,91,23
+1,66,68,east of england,male,most,maths,98,40
+1,79,74,east of england,male,least,maths,98,44
+1,45,50,yorkshire,male,least,maths,95.4,31
+1,63,47,london,male,least,maths,83.5,29
+1,44,44,northern ireland,male,other,maths,86,37
+1,58,72,london,female,least,maths,86,24
+1,69,75,north west,male,middle,maths,98,49
+1,87,83,east of england,male,least,maths,99,48
+1,81,72,london,male,most,maths,91,26
+1,81,70,london,male,most,maths,99,35
+1,85,57,east midlands,female,middle,maths,99.5,26
+1,56,52,west midlands,male,most,maths,93.5,51
+1,97,85,south west,male,least,maths,100,28
+1,60,60,north west,female,most,maths,90,24
+1,86,88,north west,male,most,maths,97,34
+0,25,32,northern ireland,male,middle,maths,84.2,39
+1,59,43,scotland,male,least,maths,85.5,33
+1,74,74,south,female,least,maths,94,49
+1,60,58,london,female,most,maths,86,30
+0,22,54,london,female,most,maths,58,27
+1,99,94,yorkshire,male,middle,maths,100,39
+1,66,56,west midlands,male,least,maths,97,26
+1,77,82,south,male,least,maths,89,41
+1,98,98,east of england,female,least,maths,98.5,50
+1,91,73,northern ireland,male,other,not,95,44
+1,54,80,south east,male,least,maths,99,71
+0,33,40,north west,male,least,maths,83,36
+0,19,35,south west,male,least,maths,76,31
+1,94,96,east midlands,male,least,not,95.5,41
+0,10,27,south east,male,middle,maths,81.8,27
+1,64,52,south west,female,middle,maths,93,21
+1,44,41,london,female,most,maths,97.4,28
+1,58,69,east of england,female,least,maths,98,61
+1,76,65,london,male,middle,maths,98,30
+1,67,58,london,female,middle,maths,93,42
+1,53,59,south east,male,middle,maths,98,39
+1,69,38,north west,female,most,not,90,24
+1,91,82,north,male,other,maths,87,28
+1,93,76,north,male,other,maths,93.5,28
+1,58,59,east of england,female,least,not,90,24
+1,56,82,south,male,least,maths,95.6,29
+1,79,82,north,male,least,maths,95.5,42
+1,62,44,west midlands,male,least,maths,89.2,30
+1,86,61,northern ireland,male,least,maths,98,24
+1,79,87,south,male,least,maths,97.5,20
+1,43,50,east of england,male,least,maths,88,20
+1,93,70,north,male,other,not,90.5,22
+0,26,36,northern ireland,female,other,not,51.5,27
+1,92,85,south,male,least,maths,96.5,36
+1,86,78,south,male,middle,not,77,31
+1,52,74,east midlands,male,most,maths,94,61
+1,61,69,london,male,least,maths,95.5,70
+1,99,95,yorkshire,male,middle,maths,99.5,58
+1,82,87,east of england,male,least,maths,95,70
+1,80,54,yorkshire,male,least,maths,94,48
+1,71,78,south east,male,least,maths,97.4,74
+0,28,44,wales,female,most,maths,79.1,49
+1,56,55,london,male,most,not,96,52
+1,72,53,yorkshire,male,most,maths,94,44
+1,67,80,london,female,most,maths,98,65
+1,91,68,north,male,middle,maths,97,51
+1,41,39,north,female,most,maths,82.5,44
+1,93,85,east of england,male,least,not,83.5,48
+1,65,48,east of england,male,least,maths,90,48
+1,96,95,northern ireland,male,middle,not,96,50
+1,70,82,south west,male,middle,not,94.5,50
+1,81,89,south east,female,least,maths,97,35
+1,46,48,london,female,least,not,100,48
+1,80,57,scotland,male,most,maths,89,43
+1,81,69,north west,male,least,maths,99,50
+1,89,70,east midlands,male,most,maths,93.5,41
+1,84,89,london,male,middle,maths,97,51
+1,61,86,east of england,male,least,maths,97,49
+1,85,80,scotland,male,least,not,95.5,66
+1,80,92,west midlands,male,least,maths,99,68
+1,77,78,north west,female,middle,maths,100,54
+1,68,52,south,male,middle,maths,91.5,34
+1,61,58,london,male,least,maths,93,37
+1,77,84,scotland,male,least,not,76.5,47
+1,58,73,london,female,middle,not,88.5,59
+1,96,90,east midlands,male,least,maths,97,50
+1,83,85,east midlands,female,least,maths,100,50
+1,45,59,north west,male,most,maths,98,37
+1,73,66,london,male,least,maths,95,37
+1,40,51,wales,female,least,maths,89,27
+1,99,92,north,female,other,maths,98.5,44
+1,56,63,west midlands,male,most,not,88,45
+1,72,81,east midlands,male,middle,maths,98,53
+1,54,55,south,male,least,maths,84,42
+1,46,35,london,female,most,maths,69.5,35
+1,52,52,london,female,middle,maths,93,28
+1,68,56,north west,female,middle,maths,94,40
+1,57,47,north west,female,most,maths,93,34
+1,73,71,east of england,male,least,maths,98,65
+0,37,36,london,male,middle,maths,92,34
+1,59,66,east midlands,female,least,maths,99,34
+1,89,79,west midlands,male,least,maths,98.5,40
+1,96,83,yorkshire,male,middle,maths,99.5,32
+0,26,42,northern ireland,female,other,maths,69,33
+1,41,46,west midlands,male,most,maths,81.8,39
+0,19,38,yorkshire,female,middle,maths,78,36
+1,40,69,scotland,male,least,maths,77,36
+1,85,67,west midlands,female,least,maths,94,34
+1,50,69,west midlands,female,least,maths,95,42
+1,93,92,east midlands,female,middle,maths,97,49
+0,33,68,south east,female,least,maths,98,62
+1,46,55,london,female,least,maths,89,47
+1,65,66,south west,male,least,maths,99,45
+1,62,50,south,female,least,maths,90,29
+1,45,48,south west,male,most,maths,95,35
+1,43,53,north west,male,middle,not,88,48
+1,87,89,north,male,other,maths,98.5,43
+1,44,54,wales,male,middle,maths,85,48
+1,78,82,scotland,male,middle,maths,93.5,46
+1,76,77,west midlands,male,least,maths,99,39
+0,25,42,east midlands,male,middle,maths,83.5,29
+1,63,59,south,male,least,maths,96,41
+1,75,64,east of england,female,least,maths,90,44
+1,42,41,north,male,least,maths,95,41
+1,81,68,west midlands,female,least,maths,95.5,49
+1,62,76,east of england,male,least,maths,91,47
+1,78,70,london,male,least,not,93.5,36
+1,70,88,east midlands,female,middle,maths,99,43
+1,44,39,north west,female,middle,not,94,27
+1,68,79,east midlands,female,least,not,98,41
+1,98,98,north west,male,most,not,100,47
+1,70,58,west midlands,female,most,maths,98.6,32
+1,67,68,west midlands,male,middle,maths,98,51
+1,87,71,south east,male,least,maths,98,70
+1,88,89,london,male,middle,maths,94,49
+1,98,94,south east,female,least,maths,99,45
+1,48,43,london,female,least,maths,78.5,32
+1,50,63,south,male,middle,maths,81.5,34
+1,60,85,north,female,other,not,87.5,44
+1,81,68,south east,female,least,maths,95.5,37
+1,88,78,south west,male,most,maths,97,46
+1,47,60,north west,female,most,maths,87,35
+0,20,34,west midlands,male,least,maths,92,71
+1,77,76,south east,male,middle,not,98,63
+1,45,56,south east,male,most,maths,83,43
+1,85,92,south,male,middle,maths,91.5,48
+1,81,65,south,female,least,maths,95,59
+1,41,44,wales,female,middle,maths,89.5,32
+1,76,69,northern ireland,female,other,maths,84.5,29
+1,67,57,west midlands,male,most,maths,97.5,31
+1,70,85,east of england,female,least,maths,98,53
+1,65,78,south east,female,least,maths,94,33
+1,78,82,east of england,female,least,maths,89.5,35
+1,46,51,south east,male,least,maths,93,36
+1,58,58,west midlands,male,most,not,84,50
+1,94,85,london,male,least,maths,94,41
+1,57,86,west midlands,male,middle,maths,97.8,41
+0,29,35,northern ireland,male,other,maths,85.5,40
+1,51,65,east of england,female,least,maths,92,37
+1,59,57,scotland,male,middle,maths,94,44
+1,65,79,east of england,male,middle,maths,96,39
+1,47,40,london,female,most,maths,95,52
+1,87,92,scotland,male,least,not,99,73
+1,82,76,south,female,least,maths,98,41
+1,47,61,east of england,female,least,maths,90.5,56
+1,49,43,east midlands,male,middle,maths,86.6,34
+1,88,87,south west,male,middle,maths,96,38
+1,67,69,south west,female,least,maths,95.5,25
+1,51,65,south east,male,least,maths,88,36
+1,59,64,south,male,least,maths,99,47
+1,65,49,london,female,most,maths,83,35
+1,88,84,east of england,female,least,maths,97.5,38
+1,79,69,london,female,most,maths,96.5,54
+0,34,41,north,male,least,maths,76,45
+0,8,39,east midlands,male,middle,maths,87,36
+1,80,89,scotland,male,least,maths,96,67
+1,74,92,south west,male,least,maths,99,50
+1,74,78,scotland,male,least,maths,90.8,56
+1,78,84,south,male,middle,maths,97,34
+0,35,62,south east,female,least,maths,94.6,64
+1,45,49,east of england,female,middle,maths,88,42
+0,38,69,london,female,middle,maths,87.4,29
+1,93,64,east of england,male,least,maths,98.5,46
+1,48,65,west midlands,male,least,maths,89,29
+1,70,66,london,female,most,maths,87,39
+1,86,72,east midlands,female,most,maths,97.8,27
+1,83,90,east of england,female,least,maths,98,45
+1,63,40,london,male,most,maths,76,24
+1,82,79,south,female,middle,maths,98,46
+0,14,46,north west,male,most,maths,93,24
+1,86,61,scotland,female,least,maths,93.5,33
+0,35,66,yorkshire,female,least,maths,89.2,24
+0,22,60,west midlands,male,most,maths,97.5,34
+1,95,97,west midlands,male,least,maths,99,43
+1,100,100,north west,male,middle,maths,100,43
+1,82,85,east of england,male,least,maths,95.5,23
+1,86,86,east of england,male,least,not,92,36
+1,70,86,yorkshire,male,middle,not,94,72
+0,37,62,north west,male,least,maths,83,34
+1,90,76,yorkshire,female,least,maths,92.5,42
+1,91,90,east of england,female,least,maths,96,46
+1,73,34,northern ireland,male,other,maths,97.8,36
+1,40,35,north west,male,most,maths,96.4,33
+1,96,92,west midlands,male,most,not,98,31
+1,58,64,south,male,least,not,88,42
+1,54,71,south,male,least,maths,73,25
+1,92,81,northern ireland,male,other,maths,97.5,39
+1,91,89,london,male,middle,maths,99,48
+1,59,64,north,male,other,maths,88,60
+1,48,37,scotland,male,most,maths,91,32
+1,79,69,south,male,least,maths,96.5,33
+1,46,65,london,male,least,maths,93.2,37
+1,95,85,south,female,least,maths,96,27
+1,88,74,south,male,middle,maths,89.5,42
+1,76,62,south west,male,least,maths,93,44
+1,44,73,london,female,least,maths,95,38
+1,77,61,east of england,female,least,maths,90.5,47
+0,34,35,london,male,middle,maths,86,23
+1,73,42,london,male,most,maths,89,31
+1,93,81,south east,male,middle,maths,94,27
+1,96,94,south east,female,most,maths,99.5,34
+1,58,51,south east,male,most,maths,74.5,24
+1,74,76,north west,female,most,not,96,28
+1,65,72,london,male,most,maths,98.4,33
+1,72,71,east of england,male,least,maths,87.5,71
+1,59,63,scotland,male,middle,maths,94.5,23
+0,22,39,north west,male,middle,maths,81.5,25
+1,68,70,wales,male,most,maths,92.4,46
+1,82,64,scotland,female,least,maths,92,27
+1,53,41,north,male,other,maths,75,25
+1,40,54,northern ireland,male,middle,maths,72,29
+1,68,68,scotland,male,least,maths,83,23
+1,73,58,north west,female,most,maths,86.5,20
+1,69,76,east midlands,female,middle,maths,97.6,38
+1,95,72,wales,male,least,maths,99,32
+1,48,62,london,male,most,maths,90,71
+0,28,39,south east,male,least,not,51,24
+1,74,82,north west,female,least,maths,96,62
+1,64,68,scotland,male,least,not,90,49
+0,37,69,london,male,most,not,57,69
+1,89,70,london,male,most,not,89,48
+1,60,81,london,female,most,maths,91.5,57
+1,88,95,east midlands,female,least,maths,97,50
+1,76,52,northern ireland,male,most,maths,94,44
+1,63,75,south west,male,least,maths,96,44
+1,82,86,north,male,most,maths,98,53
+1,80,75,south,male,middle,maths,95.5,48
+1,46,46,east midlands,male,least,not,90,54
+1,75,77,south,female,most,maths,100,41
+1,59,68,north,male,other,maths,93,52
+1,86,93,east midlands,male,middle,maths,98.5,57
+0,26,71,london,male,middle,maths,73.6,55
+1,66,64,south,female,least,maths,89,43
+0,28,57,south east,male,least,not,84,57
+1,50,46,north west,male,most,maths,97.4,44
+1,83,81,west midlands,female,most,maths,98,36
+1,62,83,south east,male,middle,maths,96,55
+1,66,66,scotland,male,most,maths,94,43
+1,85,78,south east,male,least,maths,93.5,56
+1,99,60,scotland,female,least,maths,99.5,43
+1,83,80,north west,male,most,maths,96.5,49
+1,55,74,london,male,middle,not,79,52
+1,75,82,yorkshire,male,least,maths,97.5,46
+1,57,89,north west,male,middle,not,85,48
+1,78,68,north west,male,least,maths,95,41
+1,72,67,south,female,middle,maths,86,33
+1,87,95,scotland,female,least,maths,98,59
+1,74,83,northern ireland,male,other,maths,88.5,59
+1,91,73,north west,female,middle,maths,90,71
+1,40,35,east midlands,female,middle,maths,98.2,53
+1,49,65,east of england,male,least,maths,88.5,41
+0,32,55,east of england,male,least,not,92.6,45
+0,28,44,north west,female,least,maths,86,36
+1,66,56,east of england,female,middle,maths,95,34
+1,66,71,london,female,most,maths,93,32
+1,79,78,london,female,most,maths,93.5,38
+1,62,68,west midlands,female,least,maths,90,38
+1,42,62,london,male,least,maths,89,57
+0,25,47,northern ireland,female,other,maths,69,35
+1,50,50,south,female,least,not,83,34
+1,65,60,wales,male,most,maths,93,42
+1,99,97,yorkshire,female,least,maths,100,33
+1,87,89,east of england,female,middle,maths,99,43
+1,83,90,wales,female,middle,maths,96,44
+0,22,58,london,female,most,not,97.5,52
+1,80,63,west midlands,female,least,maths,97.4,39
+1,63,62,scotland,male,most,maths,87.5,35
+1,71,50,north west,female,most,maths,92,31
+1,46,62,east of england,male,least,maths,95,52
+1,40,37,yorkshire,male,middle,maths,80,48
+1,53,48,north,male,other,maths,82.5,34
+1,64,65,east midlands,male,least,maths,98,35
+1,56,77,south west,male,most,maths,94,31
+0,13,45,london,female,most,maths,90,47
+1,62,80,south,male,least,maths,95,36
+1,60,69,wales,female,least,maths,95,65
+1,97,91,london,male,most,not,96.5,39
+1,86,89,east of england,female,least,maths,99,30
+1,94,98,yorkshire,female,most,not,97,49
+1,52,59,south east,male,least,not,90.8,56
+1,42,62,east of england,female,middle,maths,98.2,45
+1,48,72,north,male,other,maths,94,93
+0,15,54,south,male,middle,not,78.5,45
+1,45,51,north,female,other,maths,88.5,35
+0,27,40,london,female,most,maths,60,39
+1,42,66,east midlands,female,middle,maths,89.2,29
+1,78,66,east midlands,male,least,maths,96,35
+1,50,67,northern ireland,female,other,maths,87.5,31
+1,46,57,east midlands,female,least,maths,94,31
+1,66,88,london,male,middle,maths,94.8,54
+0,17,38,scotland,male,least,maths,92.2,40
+1,52,41,north,female,other,maths,78,29
+1,78,61,north west,female,least,maths,86,21
+1,89,83,west midlands,male,most,maths,93.5,33
+1,75,90,yorkshire,female,middle,not,96,38
+1,61,85,east of england,male,least,maths,97,50
+0,31,49,wales,male,most,maths,83.2,25
+1,48,57,east of england,male,most,maths,89.6,31
+0,35,53,south east,female,least,maths,95.4,32
+1,81,55,wales,female,middle,maths,89.5,33
+1,81,80,scotland,male,least,maths,92,37
+1,69,83,west midlands,male,least,maths,95,27
+1,86,74,london,female,middle,maths,99,34
+1,59,63,london,female,most,not,92.4,36
+0,13,65,scotland,male,most,maths,88,26
+1,45,58,east midlands,male,middle,maths,91,21
+1,79,73,south,female,middle,maths,96.5,31
+1,83,63,scotland,male,middle,maths,96.5,31
+1,62,49,west midlands,male,other,not,74.5,45
+0,21,32,london,female,most,maths,52.5,29
+1,84,79,scotland,male,most,maths,98,41
+1,92,93,north,male,other,maths,99.5,48
+1,81,64,london,male,least,maths,96.5,41
+1,89,87,north,male,middle,maths,100,25
+1,66,57,wales,male,most,maths,83.5,26
+1,94,91,wales,female,least,maths,98.5,37
+1,51,71,london,male,middle,maths,93.5,27
+1,58,72,east of england,female,least,maths,87.5,41
+1,61,67,north,male,other,maths,84.5,22
+1,47,60,scotland,male,least,maths,92.5,31
+1,93,92,scotland,male,most,maths,99.5,34
+1,74,96,north,male,other,maths,94.5,19
+1,47,71,london,female,most,maths,73,23
+1,60,41,east of england,male,middle,maths,85,27
+1,91,83,north,male,other,maths,94.5,25
+1,59,66,northern ireland,male,least,maths,96,32
+0,13,62,south east,male,middle,maths,53.5,37
+1,69,71,north west,female,other,maths,90.5,23
+1,59,77,wales,male,most,maths,74.5,25
+1,53,48,east of england,female,middle,maths,74,26
+1,69,89,london,male,middle,maths,93,26
+1,59,49,london,female,middle,maths,66,22
+1,79,74,south,female,other,not,96,64
+1,89,78,scotland,female,least,not,98.5,66
+1,90,79,east of england,male,middle,not,83,55
+1,97,95,west midlands,female,least,not,100,52
+1,41,37,northern ireland,male,other,not,83.5,49
+1,46,55,east of england,male,middle,maths,95,57
+1,90,88,north west,male,most,not,97.5,40
+1,53,81,south east,female,middle,maths,96.8,36
+0,11,44,west midlands,female,middle,maths,94,43
+1,81,74,east of england,male,other,not,67.6,57
+1,94,100,london,male,middle,maths,99,56
+1,48,39,east of england,male,middle,maths,76,39
+1,92,94,london,male,least,not,99,31
+1,47,57,east of england,female,middle,not,99.2,37
+1,97,91,london,male,middle,not,99,42
+1,91,69,west midlands,male,least,not,99,34
+1,93,95,north,male,least,not,97,42
+1,77,64,south west,female,least,maths,90,27
+1,55,40,north,male,other,not,92,37
+1,98,95,london,male,middle,maths,97.5,35
+1,79,92,east of england,male,middle,not,98,50
+1,47,58,wales,male,least,maths,93,26
+0,28,65,east of england,female,most,maths,93.2,30
+1,97,99,scotland,female,least,maths,99,40
+1,63,79,north,male,other,maths,97.4,58
+1,72,83,northern ireland,male,least,maths,98,38
+1,87,89,west midlands,male,least,not,100,41
+1,87,78,london,male,least,not,92.5,51
+1,90,91,west midlands,female,least,maths,99.8,47
+1,97,90,northern ireland,male,other,maths,100,38
+1,68,61,london,female,most,maths,92.4,29
+1,40,48,south west,male,least,not,76,32
+0,27,35,yorkshire,male,middle,maths,82.5,43
+0,13,32,scotland,male,least,maths,92.2,42
+1,94,94,scotland,male,most,maths,100,46
+1,91,93,yorkshire,male,least,not,100,61
+1,84,53,london,male,most,maths,100,25
+1,86,78,scotland,male,least,maths,98,27
+1,88,76,north,male,other,maths,95,34
+1,73,81,northern ireland,female,least,maths,99,51
+1,64,60,scotland,male,middle,maths,92,29
+1,87,55,east of england,male,middle,maths,99,35
+1,84,75,northern ireland,male,other,not,97,31
+1,71,67,london,female,most,not,82,35
+0,22,57,south east,female,middle,maths,80.4,27
+1,45,46,yorkshire,female,least,maths,82.5,36
+1,59,71,east of england,male,most,maths,94,30
+1,69,66,scotland,male,middle,maths,90,30
+1,48,74,east of england,female,least,maths,93.6,27
+1,45,51,north,male,other,maths,81,40
+1,68,63,west midlands,male,most,not,87,42
+1,63,80,east midlands,female,most,maths,96.8,33
+1,86,83,north,male,most,maths,97,27
+1,54,86,scotland,male,most,maths,88,28
+1,65,64,north west,male,least,maths,95,44
+1,93,78,south west,male,least,maths,96,46
+1,45,57,wales,male,middle,maths,94.6,37
+1,67,75,west midlands,female,least,maths,96,28
+1,64,57,scotland,female,middle,maths,88,27
+1,56,48,south west,male,most,maths,92.5,44
+1,90,83,south,male,least,maths,100,26
+1,72,58,scotland,male,middle,maths,97.5,53
+1,64,69,south west,male,middle,maths,90,44
+1,82,83,south east,male,middle,maths,91,23
+0,23,33,north,male,other,not,82.5,43
+1,91,75,north,male,other,maths,97,29
+1,94,97,london,male,middle,maths,100,41
+1,83,82,east midlands,male,least,maths,94.5,29
+1,56,56,scotland,male,middle,maths,90,24
+1,48,73,northern ireland,male,least,maths,98.5,37
+1,70,72,north,female,other,maths,98,30
+0,15,37,south,female,most,maths,74.8,20
+1,78,58,london,male,middle,maths,93.5,44
+1,70,74,northern ireland,female,least,maths,87,22
+1,82,83,scotland,male,middle,not,98,37
+1,84,85,north west,male,other,maths,93.5,22
+1,45,48,north west,male,least,not,57.5,25
+1,90,83,north,male,other,maths,96.5,31
+0,25,50,west midlands,male,least,maths,84.5,30
+1,87,51,london,male,most,maths,98,36
+1,58,53,east midlands,male,most,not,87.5,23
+1,45,36,south east,male,least,maths,92.8,23
+1,56,80,east of england,female,least,maths,93,46
+1,71,60,west midlands,male,most,maths,87.5,27
+1,93,88,northern ireland,male,other,maths,99.5,39
+1,79,70,north,male,other,maths,90,20
+1,46,58,south,female,least,maths,84.5,22
+1,54,83,north west,male,most,maths,97.5,40
+1,81,83,north,male,other,maths,91,34
+1,72,75,east of england,male,middle,maths,91.5,21
+1,43,39,london,male,middle,maths,91,20
+1,90,80,yorkshire,male,most,maths,95,21
+1,73,72,south east,male,middle,maths,96.5,45
+1,58,81,south,male,middle,maths,89.5,19
+0,35,68,south east,male,least,maths,85.5,31
+1,50,63,northern ireland,male,other,not,83,25
+1,66,51,scotland,male,least,maths,70,24
+1,58,64,north,male,least,maths,92,24
+1,71,62,north,male,other,maths,89.5,33
+1,83,73,north west,male,middle,maths,91,23
+0,27,39,north west,male,least,not,73.5,30
+1,51,46,north,male,other,not,90.5,24
+1,71,47,scotland,male,least,not,66,37
+1,74,64,south east,male,middle,not,90.5,58
+1,48,84,north west,male,least,not,93,60
+1,51,48,south,male,most,not,82,59
+1,86,92,east of england,male,least,maths,98,48
+1,60,62,london,female,middle,not,100,53
+1,63,58,north west,male,middle,maths,93.8,47
+1,91,85,west midlands,male,least,not,95,40
+1,84,92,east midlands,male,least,not,98.2,55
+1,51,52,wales,male,least,not,95,52
+1,68,75,north,male,other,not,82,77
+0,23,48,northern ireland,male,most,maths,93.2,47
+1,81,58,london,male,middle,maths,95.5,34
+1,91,78,east of england,male,middle,maths,97,35
+1,69,78,northern ireland,female,least,not,100,34
+1,73,62,scotland,male,least,not,92,35
+1,50,41,south,female,least,not,96.6,44
+1,43,37,east midlands,male,middle,not,83.5,34
+1,74,49,south west,female,middle,not,86,38
+1,66,46,scotland,male,most,not,94,50
+1,96,95,london,male,least,maths,99,64
+1,78,92,south east,male,middle,not,88.5,33
+0,26,53,west midlands,male,least,not,69,62
+1,53,32,south east,female,most,maths,95.4,33
+1,89,85,south west,male,least,maths,93,31
+1,56,80,london,male,least,not,97,71
+1,64,64,london,male,most,not,91,49
+1,96,97,london,male,least,not,99,57
+1,52,52,south,male,least,not,81,47
+1,73,75,east of england,male,middle,maths,94.5,31
+1,67,60,east midlands,female,middle,maths,71,25
+1,48,77,yorkshire,male,middle,maths,82.5,44
+1,75,89,scotland,male,least,maths,96,47
+1,73,71,north west,male,most,maths,92,31
+1,69,62,north west,male,most,not,97,71
+1,70,70,north,male,other,maths,95.5,41
+1,90,89,south east,male,least,maths,91.5,32
+1,71,73,yorkshire,male,least,maths,88.5,29
+1,85,88,east midlands,male,least,maths,89,63
+1,50,43,south,female,least,maths,86,26
+1,61,56,south west,male,most,maths,93.8,40
+1,55,62,london,male,middle,not,90.5,28
+1,80,70,wales,female,most,maths,98,40
+1,93,93,east midlands,male,middle,maths,97,59
+1,59,34,yorkshire,male,least,not,84,37
+1,88,81,south,female,least,maths,96,45
+1,81,80,north,male,other,maths,98.5,48
+1,63,78,south,female,least,maths,95.8,31
+1,67,68,london,male,middle,maths,96,40
+1,96,94,south west,female,most,maths,99,31
+0,20,31,west midlands,female,most,maths,57.5,64
+1,87,89,south west,male,least,maths,99.5,48
+1,58,53,south west,male,middle,maths,90.8,41
+1,85,63,yorkshire,male,most,maths,98.5,46
+1,85,82,east of england,male,middle,maths,92.5,36
+1,89,92,north,male,other,maths,98.5,24
+1,77,84,london,female,middle,maths,95.5,22
+1,73,54,north west,female,middle,maths,65,37
+1,62,39,wales,male,most,maths,80.5,30
+1,70,38,south east,female,middle,maths,67,25
+1,80,90,scotland,male,least,maths,99,39
+0,17,24,yorkshire,male,most,maths,78.5,58
+1,97,83,south,female,middle,maths,100,26
+1,85,88,west midlands,male,most,maths,94,35
+1,40,44,south east,male,middle,maths,81,52
+1,64,47,east of england,female,most,maths,94.8,27
+1,85,89,wales,male,middle,not,92,59
+1,68,54,north,female,most,maths,92.5,53
+1,89,87,south,male,middle,not,96,31
+1,78,81,north west,male,least,maths,94,57
+1,60,56,south east,male,middle,maths,53.5,37
+1,67,53,scotland,female,least,not,93.5,41
+1,89,90,yorkshire,male,middle,maths,99,31
+1,66,57,yorkshire,female,most,maths,90.2,25
+1,96,90,london,female,most,not,98.5,39
+1,90,96,london,male,most,maths,98.5,34
+1,56,67,north west,male,most,maths,100,44
+1,85,84,london,female,middle,maths,99,35
+1,98,91,wales,male,middle,maths,100,49
+1,81,67,south,male,least,maths,94,33
+1,86,73,scotland,female,middle,maths,94,38
+1,89,92,south east,male,least,maths,99.5,21
+1,80,76,north,male,other,not,72,45
+1,67,51,scotland,female,middle,maths,90,36
+1,74,69,south west,female,middle,maths,90.8,34
+1,70,57,north,male,other,maths,79.5,21
+1,71,88,west midlands,female,least,not,97,28
+1,94,89,north,male,other,maths,95.6,39
+1,72,39,south,female,least,maths,85.5,23
+1,87,88,north west,male,middle,maths,94,30
+1,65,53,south,female,middle,maths,84.5,31
+1,94,94,north,male,other,maths,100,45
+1,79,75,east midlands,male,most,maths,98.5,26
+1,68,94,wales,male,middle,maths,97.5,64
+1,62,60,west midlands,female,most,maths,95,20
+1,56,38,scotland,male,least,not,86,29
+1,51,37,london,male,middle,maths,97.5,24
+1,92,92,south west,female,most,maths,100,31
+1,78,74,london,male,most,maths,89.5,25
+1,81,62,east midlands,female,middle,maths,98,35
+1,96,86,north,male,other,maths,96,27
+1,63,72,scotland,male,least,maths,84,23
+1,53,78,south,male,least,maths,86.5,20
+1,63,39,north west,female,middle,not,66,26
+1,84,57,northern ireland,male,other,maths,67,38
+1,82,48,north west,male,least,not,53,24
+1,73,69,north,male,other,not,89.5,33
+1,87,77,south west,female,middle,not,98.5,59
+1,91,93,south,male,least,not,88,62
+1,81,68,scotland,female,middle,maths,97,51
+1,78,56,london,male,least,not,76,49
+1,94,88,south west,male,least,maths,98,51
+1,64,54,south,male,least,not,86.2,53
+1,68,63,northern ireland,male,other,maths,88,54
+1,82,68,south east,male,most,not,95,51
+1,56,60,south west,female,middle,maths,85.5,59
+1,85,77,east midlands,female,most,maths,85,46
+1,94,65,london,male,least,maths,99,44
+1,68,67,east of england,male,least,maths,88,43
+1,96,84,london,male,middle,not,99,44
+1,77,52,london,male,middle,maths,72.6,37
+1,91,72,north,male,least,maths,98.5,34
+1,62,60,yorkshire,female,middle,maths,93.5,44
+1,73,86,north,male,other,maths,95.5,43
