@@ -1,0 +1,8 @@
+
+[pipeline]
+raw_format = "csv"
+processed_format = "parquet"
+backend = "pandas"
+
+[path]
+raw_data = "data/raw/graduation_data.csv"
