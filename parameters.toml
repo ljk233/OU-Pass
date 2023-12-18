@@ -1,8 +1,65 @@
 
 [pipeline]
-raw_format = "csv"
+raw_data_format = "csv"
 processed_format = "parquet"
-backend = "pandas"
+data_backend = "pandas"
+model_backend = "statsmodels"
 
 [path]
 raw_data = "data/raw/ou_student.csv"
+clean_data = "data/intermediate/clean_data.csv"
+processed_data = "data/processed/processed_data.csv"
+
+[schema]
+[schema.raw_data]
+shape = [1796, 9]
+num_missing = 0
+[schema.raw_data.features]
+mod_result = "integer"
+exam_score = "integer"
+continous_ass_score = "integer"
+region = "string"
+gender = "string"
+imd = "string"
+qual_link = "string"
+best_prev_mod_score = "real"
+age = "integer"
+
+[schema.clean_data]
+shape = [1796, 8]
+num_missing = 0
+[schema.clean_data.features]
+did_pass = "integer"
+cma_score = "integer"
+region = "string"
+gender = "string"
+imd = "string"
+qual_link = "string"
+best_prev_mod_score = "real"
+estimated_age = "integer"
+
+[modelling]
+response = "did_pass"
+test_size = 0.25
+random_state = 1549863
+
+[models]
+[models.1]
+formula_str = "did_pass ~ cma_score + C(region) + C(imd) + best_prev_mod_score + estimated_age + is_female + is_maths"
+description = "Full parallel slopes model"
+
+[models.2]
+formula_str = "did_pass ~ cma_score + C(imd) + best_prev_mod_score + estimated_age + is_female + is_maths"
+description = "Parallel slopes model, excluding region"
+
+[models.3]
+formula_str = "did_pass ~ cma_score + best_prev_mod_score + estimated_age + is_female + is_maths"
+description = "Parallel slopes model, excluding region, imd"
+
+[models.4]
+formula_str = "did_pass ~ cma_score + + best_prev_mod_score + estimated_age + is_maths"
+description = "Parallel slopes model, excluding region, imd, is_female"
+
+[models.5]
+formula_str = "did_pass ~ cma_score + best_prev_mod_score + estimated_age"
+description = "Covariates only"
