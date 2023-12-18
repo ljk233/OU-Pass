@@ -1,16 +1,35 @@
 """data/encoders.py
 
-This module provides concrete data encoders for specific data formats.
-Pandas is to read CSV files so the data types can be preserved.
+This module provides concrete data encoders for specific data formats,
+facilitating the conversion of data between different formats.
+Two concrete encoder classes are implemented: `CSVEncoder` for handling
+CSV files and `PandasEncoder` for handling Pandas DataFrames.
 
 Classes
 -------
 
 - `CSVEncoder`: Concrete encoder class for handling CSV files.
 - `PandasEncoder`: Concrete encoder class for handling Pandas DataFrames.
-"""
 
-import csv
+Factory Function
+----------------
+
+- `create_encoder(fmt: str) -> encoder.Encoder`: Creates an encoder instance
+for the specified data format.
+
+Example
+-------
+
+```python
+# Example Usage of create_encoder
+from data.encoders import create_encoder
+
+# Create a CSVEncoder instance
+csv_encoder = create_encoder("csv")
+
+# Create a PandasEncoder instance
+pandas_encoder = create_encoder("pandas")
+"""
 
 import pandas as pd
 
@@ -81,13 +100,14 @@ def create_encoder(fmt: str) -> encoder.Encoder:
     """Creates an encoder instance for the specified data format.
 
     Args:
-        fmt: The data format to be created.
+        fmt (str): The data format for which to create an encoder.
 
     Returns:
-        An encoder instance for the specified data format.
+        encoder.Encoder: An encoder instance for the specified data format.
 
     Raises:
-        NotImplementedError: If the specified data format is not supported.
+        NotImplementedError: If encoding for the specified data format is
+        not supported.
     """
     match fmt:
         case "csv":
