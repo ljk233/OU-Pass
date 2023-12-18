@@ -3,46 +3,43 @@
 Purpose
 -------
 
-This module defines abstract base classes for data validation, providing
-a foundation for creating reusable and consistent data validation logic.
+This module defines the foundation for data validation using abstract base
+classes and concrete classes. It provides an abstract base class,
+AbstractValidator, that defines the core validation methods for data
+shape, missing values, feature names, and data types.
 
-`AbstractDataValidator` Class
+Recommendation
+--------------
 
-The `AbstractDataValidator` class serves as an interface for data validation,
-defining abstract methods for retrieving data shape, number of missing values,
-feature names, feature datatypes, and validating the data against a schema.
-This ensures consistent behavior and allows for different implementations
-of data validation logic without compromising the interface.
+All specific implementations should inherit from the concrete `Validator`.
 
-`DataValidator` Class
+Extending the DataValidator
+---------------------------
 
-The `DataValidator` class inherits from the `AbstractDataValidator` and
-provides concrete implementations for the abstract methods. It also defines
-the `validate_data` method, which performs the core data validation logic
-by checking the data against the expected schema. This encapsulates the
-validation process and ensures consistency across different data validation
-implementations.
+- Inherit from `DataValidator`.
+- Implement the abstract methods.
+- Override `validate_data`, calling `super().__init__(data, schema)` first
+and then add any other validations needed.
 
-`Specific Validators`
+Classes
+-------
 
-Specific data validation classes, such as those for different data formats,
-inherit from the `DataValidator` class and provide concrete implementations
-for the remaining methods. These methods handle the retrieving of specific
-data characteristics, such as the data shape, number of missing values, feature
-names, and feature datatypes. By keeping these implementations specific to the
-data format, the `DataValidator` class remains agnostic to the underlying data
-format and ensures consistent validation logic for various data types.
+`AbstractValidator`:
 
-This combination of abstract base classes and specific validators enables
-developers to create reusable and maintainable data validation classes for
-different data formats without compromising the consistency and effectiveness
-of the validation process.
+- Represents the base class for all data validation implementations.
+- Provides abstract methods for basic data validation
+
+`DataValidator`:
+
+- A concrete implementation of the `AbstractValidator` class.
+- Provides a default implementation for the `__init__()` method and `validate_data()`
+- Specific implementations should implement the abstract methods.
 """
 
 from abc import ABC, abstractmethod
 
 
-class AbstractDataValidator(ABC):
+class AbstractValidator(ABC):
     """Abstract base class for data validation."""
 
     @abstractmethod
@@ -79,7 +76,7 @@ class AbstractDataValidator(ABC):
         raise NotImplementedError()
 
 
-class DataValidator(AbstractDataValidator):
+class Validator(AbstractValidator):
     """Implements data validation using the defined schema."""
 
     def __init__(self):
