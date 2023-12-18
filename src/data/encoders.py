@@ -1,11 +1,7 @@
 """data/encoders.py
 
-Purpose
--------
-
-This module provides concrete data encoders for specific data formats. The
-universal data format used is a pandas DataFrame to preserve data types
-and simplicity.
+This module provides concrete data encoders for specific data formats.
+Pandas is to read CSV files so the data types can be preserved.
 
 Classes
 -------
