@@ -16,7 +16,7 @@ import pandas as pd
 from ._base import validator
 
 
-class PandasDataValidator(validator.DataValidator):
+class PandasDataValidator(validator.Validator):
     """Data validation class for Pandas DataFrames."""
 
     def __init__(self):
@@ -79,7 +79,7 @@ class PandasDataValidator(validator.DataValidator):
         return mapped_feature_dtypes
 
 
-def create_data_validator(backend: str) -> validator.DataValidator:
+def create_data_validator(backend: str) -> validator.Validator:
     """Factory function for creating data validators based on the specified
     backend.
     """
