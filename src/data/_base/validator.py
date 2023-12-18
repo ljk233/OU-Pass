@@ -2,15 +2,13 @@
 
 Purpose
 -------
-
 This module defines the foundation for data validation using abstract base
 classes and concrete classes. It provides an abstract base class,
-AbstractValidator, that defines the core validation methods for data
+`AbstractValidator`, that defines the core validation methods for data
 shape, missing values, feature names, and data types.
 
 Recommendation
 --------------
-
 All specific implementations should inherit from the concrete `Validator`.
 
 Extending the DataValidator
@@ -23,17 +21,42 @@ and then add any other validations needed.
 
 Classes
 -------
-
 `AbstractValidator`:
-
-- Represents the base class for all data validation implementations.
-- Provides abstract methods for basic data validation
+- Abstract base class for data validation.
+- Provides abstract methods for basic data validation.
 
 `DataValidator`:
-
-- A concrete implementation of the `AbstractValidator` class.
-- Provides a default implementation for the `__init__()` method and `validate_data()`
+- Concrete implementation of the `AbstractValidator` class.
+- Default implementation for `__init__()` and `validate_data()`.
 - Specific implementations should implement the abstract methods.
+
+Usage
+-----
+Developers can use the provided validator classes to perform basic data
+validation against a specified schema. To create custom validators, inherit
+from `DataValidator` and implement the required methods.
+
+Example
+-------
+```python
+# Example Usage of CustomValidator
+from data._base.validator import DataValidator
+
+class CustomValidator(DataValidator):
+    def get_shape(self) -> tuple[int, int]:
+        # Implement custom logic to get data shape
+        pass
+
+    def get_number_of_missing_values(self, data) -> int:
+        # Implement custom logic to get the number of missing values
+        pass
+
+    # Implement other abstract methods
+
+    def validate_data(self, data, schema: dict):
+        super().__init__(data, schema)
+        # Add additional custom validations
+```
 """
 
 from abc import ABC, abstractmethod
@@ -94,24 +117,30 @@ class Validator(AbstractValidator):
         """
         observed_shape = self.get_shape(data)
         expected_shape = tuple(schema["shape"])
-        assert observed_shape == expected_shape, f"Data has unexpected shape."
+        assert observed_shape == expected_shape, (
+            f"Observed shape {observed_shape}"
+            + f"does not match expected shape {expected_shape}."
+        )
 
         observed_num_missing = self.get_number_of_missing_values(data)
         expected_num_missing = schema["num_missing"]
-        assert (
-            observed_num_missing == expected_num_missing
-        ), f"Data has unexpected number of missing values."
+        assert observed_num_missing == expected_num_missing, (
+            f"Observed number of missing values {observed_num_missing}"
+            + f"does not match expected {expected_num_missing}."
+        )
 
         observed_feature_dtypes = self.get_feature_dtypes(data)
 
         observed_feature_names = set(observed_feature_dtypes.keys())
         expected_feature_names = set(schema["features"].keys())
-        assert (
-            observed_feature_names == expected_feature_names
-        ), f"Data has unexpected column names."
+        assert observed_feature_names == expected_feature_names, (
+            f"Observed feature names {observed_feature_names} do not match"
+            + f"expected feature names {expected_feature_names}."
+        )
 
         expected_feature_dtypes = schema["features"]
         for feature, dtype in observed_feature_dtypes.items():
-            assert (
-                dtype == expected_feature_dtypes[feature]
-            ), f"Data has unexpected feature data type."
+            assert dtype == expected_feature_dtypes[feature], (
+                f"Observed data type for feature {feature} is {dtype},"
+                + f"but expected {expected_feature_dtypes[feature]}."
+            )

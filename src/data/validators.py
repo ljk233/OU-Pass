@@ -2,13 +2,12 @@
 
 Purpose
 -------
-
 This module provides concrete data validators for specific data formats.
 
 Classes
 -------
-
-- `PandasValidators`: Concrete validator class for handling Pandas DataFrames.
+- `PandasDataValidator`: Concrete validator class for handling Pandas
+DataFrames.
 """
 
 import pandas as pd
@@ -64,9 +63,9 @@ class PandasDataValidator(validator.Validator):
         Returns:
             Dictionary mapping feature -> generic data type
         """
-        observed_feature_dypes = data.dtypes.astype(str).to_dict()
+        observed_feature_dtypes = data.dtypes.astype(str).to_dict()
         mapped_feature_dtypes = {}
-        for feature, dtype in observed_feature_dypes.items():
+        for feature, dtype in observed_feature_dtypes.items():
             if dtype in set(["int32", "int64"]):
                 mapped_feature_dtypes[feature] = "integer"
             elif dtype in set(["object", "category"]):
@@ -74,12 +73,12 @@ class PandasDataValidator(validator.Validator):
             elif dtype in set(["float64"]):
                 mapped_feature_dtypes[feature] = "real"
             else:
-                raise ValueError(f"dtype {dtype} is not mapped.")
+                raise ValueError(f"Unsupported dtype {dtype} for feature {feature}.")
 
         return mapped_feature_dtypes
 
 
-def create_data_validator(backend: str) -> validator.Validator:
+def create_validator(backend: str) -> validator.Validator:
     """Factory function for creating data validators based on the specified
     backend.
     """
